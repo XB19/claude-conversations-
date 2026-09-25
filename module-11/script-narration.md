@@ -1,0 +1,183 @@
+# Module 11 — Script de narration (Colossyan)
+
+Total : 3673 mots, soit environ 24 à 28 minutes.
+
+## Slide 1 (65 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le Module onze, consacré à la modération et à la gestion des situations sensibles. Nous sommes le jeudi premier octobre deux mille vingt-six, et ce module dure trois heures. Il est animé par votre formateur principal, Pawou Batana, pour les Institutions et Fonds membres du RAFPRO. Nous allons voir comment réagir lorsque les échanges deviennent délicats.
+
+## Slide 2 (76 mots)
+
+Commençons par une situation fictive. Sous une publication annonçant une formation, un internaute écrit que votre institution annonce toujours des programmes, mais que personne ne répond aux candidatures, et qu'il s'agit d'un manque de sérieux. L'équipe envisage trois réactions. Supprimer immédiatement le commentaire, répondre que l'internaute a tort, ou vérifier la situation et préparer une réponse appropriée. Retenez qu'une critique n'est pas, à elle seule, un motif de suppression. Elle doit d'abord être comprise et qualifiée.
+
+## Slide 3 (80 mots)
+
+À l'issue de ce module, vous saurez expliquer les principes de la modération institutionnelle, distinguer les catégories d'interactions, et identifier les commentaires qui appellent une réponse, une restriction ou une escalade. Vous saurez traiter une réclamation ou une critique publique, et corriger une information erronée sans amplifier sa diffusion. Vous saurez aussi organiser le circuit de décision, documenter vos actions, et simuler une crise. La compétence attendue est de prendre une décision proportionnée, justifiée et conforme aux responsabilités de l'institution.
+
+## Slide 4 (86 mots)
+
+Qu'est-ce que la modération institutionnelle ? C'est l'ensemble des actions qui encadrent les échanges sur les espaces numériques administrés par une institution. Elle comprend la lecture et la qualification des commentaires, la réponse aux questions et aux critiques, le rappel des règles de participation, le signalement d'un contenu, sa restriction ou sa suppression lorsque c'est justifié, et la transmission aux responsables compétents. La modération ne consiste donc pas à supprimer toute expression défavorable. Elle permet des échanges utiles, tout en protégeant les personnes et les informations.
+
+## Slide 5 (86 mots)
+
+Une modération professionnelle repose sur six principes. Des règles explicites. La proportionnalité, pour que la mesure corresponde au problème. La cohérence, pour traiter les situations comparables de la même manière. L'exactitude, avec des réponses fondées sur des faits vérifiés. Le respect des personnes, car une critique ne justifie ni attaque personnelle ni réponse humiliante. Et la traçabilité, pour que les décisions sensibles puissent être expliquées et documentées. Le principe directeur est simple. Traitez le contenu et la situation, sans chercher à disqualifier la personne qui s'exprime.
+
+## Slide 6 (67 mots)
+
+Une institution peut publier des règles de participation pour ses espaces numériques. Elles peuvent préciser que les échanges doivent respecter les personnes, la confidentialité, la protection des données personnelles, les droits liés aux contenus, les règles de la plateforme, et l'objet de l'espace de discussion. Attention toutefois. Ces règles doivent respecter les obligations applicables, et ne doivent jamais servir de prétexte pour effacer systématiquement les critiques légitimes.
+
+## Slide 7 (86 mots)
+
+Voici une typologie des interactions. Une question ordinaire appelle une réponse ou une orientation. Une réclamation demande une vérification et un suivi. Une critique publique demande d'examiner le fond, et de répondre si c'est utile. Une information erronée doit être vérifiée et corrigée. Un contenu problématique, comme une menace ou des données personnelles exposées, impose d'appliquer les règles et parfois d'escalader. Et un incident institutionnel, comme une annonce erronée sur un compte officiel, exige d'alerter et de coordonner la correction. Retenez la règle. Qualifier avant d'agir.
+
+## Slide 8 (84 mots)
+
+Exercice de cinq minutes. Classez chaque commentaire. A, les délais de réponse sont beaucoup trop longs. B, pouvez-vous confirmer la date limite ? C, voici le numéro personnel d'un agent, appelez-le tous. D, mon dossier est resté sans réponse depuis deux semaines. Et E, je vais vous faire du mal si vous ne répondez pas. Correction. A est une critique, B une question, et D une réclamation. C expose une donnée personnelle, et E contient une menace. Ces deux cas exigent protection et escalade.
+
+## Slide 9 (85 mots)
+
+Voici une méthode de traitement en six étapes. Un, observer, en lisant le message et son contexte. Deux, qualifier, en identifiant la nature de l'interaction et les risques. Trois, vérifier, en consultant les sources et les services compétents. Quatre, décider entre une réponse, une orientation, une mesure de modération ou une escalade. Cinq, agir, en mettant en œuvre la décision autorisée. Et six, suivre, en vérifiant les suites et en documentant le traitement. Cette méthode doit bien sûr s'intégrer aux procédures existantes de votre institution.
+
+## Slide 10 (83 mots)
+
+Une réclamation exprime une insatisfaction concernant une démarche, un service ou une expérience. Par exemple, une personne écrit qu'elle a déposé sa candidature sans recevoir de retour. Répondez par exemple. Merci de nous avoir signalé cette difficulté. Le suivi individuel des candidatures relève du service compétent. Pour protéger vos informations, merci d'utiliser le canal officiel indiqué dans la notice. Nous transmettons également votre signalement. En interne, vérifiez la procédure, transmettez le signalement, suivez le retour, et évitez toute promesse de résultat non autorisée.
+
+## Slide 11 (68 mots)
+
+Voyons les erreurs à éviter face à une réclamation. Première erreur, contester immédiatement. Deuxième erreur, rejeter la responsabilité sans vérifier. Troisième erreur, promettre un résultat, comme annoncer qu'un dossier sera accepté demain. Et quatrième erreur, demander des données personnelles en public. L'alternative est claire. Reconnaissez la difficulté, vérifiez les faits, orientez vers un canal approprié, et assurez le suivi. Une réponse courtoise ne doit jamais masquer l'absence d'action.
+
+## Slide 12 (77 mots)
+
+Un commentaire négatif peut contenir une expérience réelle, une perception, une opinion ou une information contestable. Voici la méthode. Identifiez ce qui est précisément reproché, distinguez opinion et affirmation factuelle, vérifiez les faits vérifiables, répondez sans attaque personnelle, et évitez un échange public interminable. Par exemple, à quelqu'un qui trouve vos informations incompréhensibles, répondez. Merci pour votre retour. Nous souhaitons rendre nos informations aussi claires que possible. Pouvez-vous nous indiquer la démarche qui vous pose difficulté ?
+
+## Slide 13 (89 mots)
+
+Traitons maintenant une critique publique argumentée. Un partenaire signale que les conditions de participation ont changé entre deux publications officielles, ce qui crée de la confusion. La démarche recommandée consiste à retrouver les deux publications, à les comparer, à consulter le service responsable, à déterminer la version en vigueur, et à corriger les supports. En attendant, répondez que vous vérifiez auprès du service responsable, et qu'une clarification sera communiquée dès validation. Lorsqu'une critique révèle une erreur réelle, la priorité est de corriger, et non de défendre la formulation initiale.
+
+## Slide 14 (88 mots)
+
+Une information erronée peut venir d'un internaute, d'un tiers, ou de l'institution elle-même. Pour la corriger, identifiez précisément l'affirmation, vérifiez la source officielle, évaluez si l'erreur peut tromper le public, préparez une correction claire, puis choisissez le canal approprié. Par exemple, un message affirme que la date limite a été reportée au trente octobre, alors que la notice indique toujours le quinze octobre. Répondez que la date indiquée dans la notice officielle reste le quinze octobre, qu'aucune modification n'a été confirmée, et invitez à suivre les canaux officiels.
+
+## Slide 15 (79 mots)
+
+Toute correction doit être utile au public, sans amplifier inutilement l'erreur. Avant de reprendre une rumeur, demandez-vous si elle circule réellement auprès de vos publics, si elle risque d'entraîner une mauvaise décision, et si vous pouvez corriger sans reproduire le contenu trompeur. La bonne pratique consiste à mettre en avant l'information vérifiée. Par exemple, préférez écrire que la date limite officielle reste le quinze octobre, plutôt que de publier un message qui répète plusieurs fois une rumeur peu diffusée.
+
+## Slide 16 (78 mots)
+
+Comment décider entre répondre, masquer, supprimer ou signaler ? Une critique respectueuse doit être maintenue, avec une réponse si c'est utile. Une réclamation individuelle se traite par une orientation vers un canal approprié. Des données personnelles exposées doivent être protégées selon la procédure. Une menace crédible impose de préserver les éléments et d'escalader immédiatement. Une fraude présumée doit être vérifiée et signalée. Attention, masquer, supprimer et signaler ne sont pas interchangeables, et les possibilités varient selon les plateformes.
+
+## Slide 17 (77 mots)
+
+Pour une situation sensible, documentez votre décision de modération. La fiche de suivi peut comprendre la date et l'heure, la plateforme et le lien, une description factuelle, les informations vérifiées, le responsable saisi, la décision, l'action effectuée et la suite prévue. Pourquoi documenter ? Pour éviter les contradictions, faciliter la continuité entre collègues, et permettre de comprendre les décisions prises. Une précaution toutefois. Limitez la collecte des informations personnelles à ce qui est strictement nécessaire et autorisé.
+
+## Slide 18 (86 mots)
+
+Qu'est-ce qu'une escalade ? C'est la transmission d'une situation à un niveau de responsabilité, ou à un service, qui dispose des compétences et de l'autorité nécessaires pour la traiter. Elle peut être nécessaire lorsque les faits ne sont pas établis, lorsqu'une décision officielle est requise, lorsque des données personnelles sont exposées, lorsqu'un risque juridique ou de sécurité apparaît, lorsque l'incident prend de l'ampleur, ou lorsqu'une réponse engage fortement l'institution. Retenez ce principe. Le community manager ne doit jamais prendre seul une décision qui dépasse ses attributions.
+
+## Slide 19 (93 mots)
+
+Voici un modèle pédagogique en trois niveaux de traitement. Le niveau un, courant, concerne une question simple pour laquelle une réponse validée existe. L'équipe habilitée la traite directement. Le niveau deux, sensible, concerne une réclamation complexe, une critique publique ou des faits à vérifier. On consulte alors le responsable et le service concerné. Et le niveau trois, critique, concerne une menace, un incident de sécurité, une fuite de données ou un risque majeur. Il impose une escalade immédiate selon la procédure de crise. Vos critères d'escalade doivent être définis et approuvés en interne.
+
+## Slide 20 (71 mots)
+
+Certains signaux imposent une attention particulière. Une menace envers une personne, une divulgation de données personnelles, une accusation grave, une usurpation d'identité, une fraude présumée, une information qui compromet la sécurité, une erreur institutionnelle affectant une procédure, ou une multiplication rapide de signalements concordants. Attention, le nombre de commentaires ne suffit pas à mesurer la gravité d'une situation. Un seul message peut exiger une intervention urgente s'il révèle un risque sérieux.
+
+## Slide 21 (74 mots)
+
+Répartissons les responsabilités. Le community manager détecte, qualifie, répond dans son périmètre et signale. Le responsable communication coordonne la réponse éditoriale et les validations. Le service métier vérifie les faits et apporte les éléments techniques. La fonction chargée de la protection des données examine les incidents impliquant des données. La direction habilitée prend les décisions relevant de son autorité. Et le responsable informatique ou sécurité traite les incidents techniques. Adaptez-la à votre organigramme réel.
+
+## Slide 22 (87 mots)
+
+Organisons maintenant un circuit d'alerte, en cinq temps. D'abord la détection, lorsqu'un commentaire, une publication ou un signalement est identifié. Puis la qualification, où l'on examine les faits disponibles, le risque et l'urgence. Vient ensuite l'alerte au responsable compétent, en transmettant les éléments utiles sans diffusion inutile. Puis la décision et la validation par les personnes habilitées. Et enfin l'action et le suivi, avec une décision exécutée, documentée et réévaluée si nécessaire. Prévoyez les coordonnées des responsables et de leurs suppléants, pour qu'aucune alerte ne reste bloquée.
+
+## Slide 23 (89 mots)
+
+Qu'est-ce qu'une situation de communication digitale de crise ? C'est un événement qui exige une coordination exceptionnelle de la communication, en raison de ses conséquences potentielles sur les personnes, les activités ou la confiance du public. Par exemple, la publication d'une information officielle erronée aux conséquences importantes, un incident de sécurité sur un compte, une divulgation de données, ou l'interruption d'un service essentiel avec de nombreuses sollicitations. Mais attention, toute critique publique n'est pas une crise. La qualification tient compte des faits, des conséquences, de l'urgence et des responsabilités.
+
+## Slide 24 (90 mots)
+
+Voici les premières actions en situation sensible. Un, protéger les personnes et les informations, en traitant en priorité les risques immédiats. Deux, établir les faits connus, en distinguant ce qui est confirmé, non confirmé, et en cours de vérification. Trois, alerter rapidement les responsables désignés. Quatre, éviter les réponses improvisées, sans publier de chiffres, de causes ou de promesses non validés. Cinq, préparer une communication adaptée, en précisant quoi dire, qui parle et sur quel canal. Et six, actualiser, en corrigeant et complétant les informations au fur et à mesure.
+
+## Slide 25 (84 mots)
+
+Lorsqu'une situation est en cours de vérification, une première réponse peut comporter la reconnaissance de la situation, les faits confirmés, les mesures engagées et le canal officiel à suivre. Par exemple. Nous avons pris connaissance des difficultés signalées concernant l'accès au formulaire de candidature. Nos équipes vérifient la situation. Les informations confirmées et les éventuelles modalités alternatives seront communiquées sur nos canaux officiels. Merci de ne pas transmettre de données personnelles en commentaire. Une règle importante. N'annoncez jamais un délai de résolution non confirmé.
+
+## Slide 26 (84 mots)
+
+Quand plusieurs personnes ou services communiquent, les contradictions peuvent aggraver la confusion. Voici le dispositif recommandé. Désignez un responsable de coordination, établissez une version de référence des faits confirmés, et identifiez les porte-parole ou validateurs habilités. Utilisez des messages cohérents sur tous les canaux, consignez les décisions et mises à jour, corrigez les informations devenues inexactes, et informez les équipes. Comme au Module neuf, les procédures de production, de validation et de suivi restent nécessaires, même quand le calendrier doit être modifié en urgence.
+
+## Slide 27 (69 mots)
+
+Place maintenant à l'atelier, pour soixante-dix minutes. Votre mission est de traiter cinq situations sensibles dans un cadre institutionnel. En groupes, vous jouerez successivement les rôles de community manager, de responsable communication, de service métier, de validateur habilité et d'observateur. Pour chaque cas, vous produirez une qualification, la liste des faits à vérifier, une décision de traitement, une réponse institutionnelle, une éventuelle décision d'escalade, et une action de suivi.
+
+## Slide 28 (66 mots)
+
+Voici la répartition du temps de l'atelier. Cinq minutes pour constituer les groupes et attribuer les rôles. Puis dix minutes pour chacun des quatre premiers cas, la réclamation, le commentaire négatif, la critique publique et l'information erronée. Ensuite quinze minutes pour le cas cinq, qui présente un risque pour l'image de l'institution. Et enfin dix minutes de restitution et de débriefing, soit soixante-dix minutes au total.
+
+## Slide 29 (85 mots)
+
+Premier cas, une réclamation. Sous une publication officielle, une personne écrit qu'elle a déposé son dossier il y a trois semaines, que personne ne lui répond, et que votre service ne respecte pas les candidats. Voici les informations disponibles. Le community manager ne voit pas les dossiers, un canal officiel de suivi existe, et aucun délai n'est confirmé. Votre travail est de qualifier le message, d'identifier le service compétent, de rédiger une réponse publique, de définir le suivi interne, et d'éviter toute promesse non autorisée.
+
+## Slide 30 (83 mots)
+
+Voici un exemple de traitement pour ce premier cas. Il s'agit d'une réclamation individuelle exprimée publiquement. Une réponse possible serait la suivante. Nous comprenons votre préoccupation et vous remercions de nous avoir signalé cette difficulté. Le suivi individuel est assuré par le service des candidatures. Pour protéger vos informations, merci d'utiliser le canal officiel indiqué dans la notice. Nous transmettons aussi votre signalement. En interne, transmettez le signalement, vérifiez la procédure, assurez le suivi, et ne divulguez rien sur le dossier en public.
+
+## Slide 31 (82 mots)
+
+Deuxième cas, un commentaire négatif. Un internaute écrit que vos publications sont inutiles, et que vous annoncez des formations sans jamais expliquer correctement les démarches. Votre travail est de distinguer l'opinion du problème vérifiable, de préparer une réponse, et de proposer une amélioration éditoriale. Par exemple, merci pour votre retour, nous souhaitons rendre les démarches plus faciles à comprendre. Pouvez-vous nous indiquer le programme ou l'étape qui vous pose difficulté ? En complément, examinez les questions récurrentes, et envisagez une publication explicative.
+
+## Slide 32 (81 mots)
+
+Troisième cas, une critique publique. Une organisation partenaire publie que deux communications officielles indiquent des dates limites différentes, et demande comment les candidats peuvent savoir laquelle est correcte. Votre travail est de retrouver les deux communications, de vérifier la date officielle, d'identifier les supports à corriger, de rédiger une réponse initiale, puis une réponse définitive après vérification. Une réponse initiale possible serait. Merci d'avoir signalé cette incohérence. Nous vérifions auprès du service responsable, et une clarification officielle sera diffusée dès validation.
+
+## Slide 33 (89 mots)
+
+Quatrième cas, une information erronée. Un compte non officiel affirme que le Fonds a supprimé toutes les conditions de participation, et que tout le monde peut désormais s'inscrire. Or la notice officielle maintient des conditions. Votre travail est d'identifier l'affirmation erronée, de retrouver les conditions officielles, d'évaluer si une correction ciblée ou générale est nécessaire, de rédiger une clarification, et de prévoir une veille. Par exemple, les conditions de participation restent celles indiquées dans la notice officielle en vigueur, que nous vous invitons à consulter sur le site institutionnel.
+
+## Slide 34 (90 mots)
+
+Cinquième cas, une situation susceptible d'affecter l'image de l'institution. Une publication largement partagée affirme qu'une institution aurait diffusé une liste de bénéficiaires avec leurs coordonnées, et un fichier présenté comme une preuve circule. À ce stade, l'équipe ne sait pas si le document est authentique. Votre travail est d'identifier les risques, de distinguer les faits confirmés des affirmations non vérifiées, de définir les premières actions de protection, les responsables à alerter et une première communication. Consigne impérative, ne téléchargez, ne repartagez et ne reproduisez jamais inutilement ces données potentiellement exposées.
+
+## Slide 35 (82 mots)
+
+Pour ce cinquième cas, simulons une escalade. Chaque participant joue un rôle. Le community manager présente le signalement, sans conclure sur l'authenticité du fichier. Le responsable communication coordonne les informations et suspend les réponses improvisées. La fonction chargée des données et de la sécurité examine les mesures de protection. La direction habilitée décide des mesures et de la communication. Et l'observateur vérifie que les décisions reposent sur des faits, que les responsabilités sont respectées, et que les données ne sont pas diffusées.
+
+## Slide 36 (93 mots)
+
+Voici une proposition de première réponse, à soumettre à validation. Nous avons pris connaissance d'un signalement concernant la circulation d'un document présenté comme provenant de notre institution. Des vérifications sont en cours auprès des services compétents. Nous invitons chacun à ne pas diffuser de documents susceptibles de contenir des informations personnelles. Les informations confirmées seront communiquées par nos canaux officiels. Remarquez ce que ce message ne fait pas. Il ne confirme pas l'authenticité du document, ne nie pas l'incident sans vérification, ne reproduit pas les données, et ne promet aucun résultat non établi.
+
+## Slide 37 (74 mots)
+
+Pour vos jeux de rôle, utilisez la fiche de décision. Elle comprend le cas traité, la nature de l'interaction, les faits confirmés, les informations à vérifier, les risques identifiés, le niveau de traitement proposé, le responsable à alerter, la décision de modération, la réponse institutionnelle, le canal retenu, l'action de suivi, et l'élément à archiver. La consigne est essentielle. Toute décision doit pouvoir être expliquée à partir des faits disponibles et des règles applicables.
+
+## Slide 38 (85 mots)
+
+Passons à la restitution. Chaque groupe présente un cas, en insistant sur la qualification, les informations manquantes, la décision prise, la réponse proposée, les personnes consultées, les mesures de protection et le suivi. Je vous poserai quelques questions. La réponse a-t-elle été publiée trop tôt ? Une information a-t-elle été supposée plutôt que vérifiée ? Une critique légitime a-t-elle été traitée comme une infraction ? Les mesures sont-elles proportionnées ? La maîtrise d'une situation sensible repose sur la qualification, la coordination et des faits vérifiés.
+
+## Slide 39 (83 mots)
+
+Voici la grille d'évaluation de vos simulations. Elle porte sur dix critères. La qualification correcte du type d'interaction, et l'analyse des faits, qui distingue les éléments confirmés des hypothèses. La proportionnalité de la décision, et la qualité d'une réponse claire, respectueuse et utile. L'exactitude, sans affirmation non vérifiée, et la confidentialité des informations personnelles. L'escalade vers les bons responsables, la coordination des rôles et des validations, le suivi des actions, et la traçabilité. Le standard attendu est une réponse argumentée, proportionnée et coordonnée.
+
+## Slide 40 (85 mots)
+
+Voyons les erreurs fréquentes à éviter. Supprimer toute critique, alors qu'une critique respectueuse doit être examinée sur le fond. Répondre sous le coup de l'émotion, au lieu de prendre le temps de qualifier et vérifier. Inventer une explication, au lieu de distinguer les faits établis des points inconnus. Promettre une solution non autorisée, ou exposer un usager. Laisser plusieurs services répondre de façon contradictoire, au lieu d'organiser une coordination. Et enfin, oublier le suivi, alors qu'il faut vérifier les suites données et actualiser les informations.
+
+## Slide 41 (96 mots)
+
+Vérifions notre compréhension avec cinq questions. Un, une critique négative doit-elle être supprimée automatiquement ? Non, elle doit être qualifiée et traitée selon les règles. Deux, que faire si les faits ne sont pas confirmés ? Vérifier auprès des sources compétentes, sans présenter une hypothèse comme un fait. Trois, quand escalader ? Lorsque la situation dépasse les compétences du communicant, ou présente un risque spécialisé. Quatre, pourquoi documenter une décision ? Pour la traçabilité et le suivi. Et cinq, quelle priorité face à une exposition de données ? Protéger les personnes, éviter la rediffusion, et alerter.
+
+## Slide 42 (75 mots)
+
+Résumons ce module en dix principes. Qualifier une interaction avant d'agir, et ne pas confondre critique et contenu interdit. Appliquer des règles explicites, avec des mesures proportionnées. Vérifier les faits avant de répondre. Reconnaître les réclamations et organiser leur suivi. Corriger clairement les informations erronées. Protéger les données et les personnes. Escalader ce qui dépasse votre périmètre. Et documenter vos décisions. Une modération efficace ne fait pas taire les difficultés, elle les traite avec professionnalisme.
+
+## Slide 43 (81 mots)
+
+Voici trois modèles pratiques, en commençant par la matrice de qualification et d'escalade. Une question courante se traite par l'équipe habilitée, à partir d'une source validée. Une réclamation individuelle mobilise le service métier. Une critique argumentée implique le responsable communication et le service concerné. Des données exposées mobilisent la fonction chargée des données. Une menace impose une alerte immédiate aux responsables de sécurité et à la direction. Et un incident majeur active la procédure de crise. Validez-la avant tout usage réel.
+
+## Slide 44 (78 mots)
+
+Le deuxième modèle est la fiche de suivi d'une situation sensible. Elle comprend sept sections. La description factuelle, sans supposer les intentions des personnes. La qualification, avec les faits confirmés, non confirmés et les risques. Les vérifications réalisées. La décision, avec sa justification et sa validation. La communication, avec la réponse, le canal et la personne autorisée à publier. Le suivi, avec son responsable et son échéance. Et la clôture, avec le résultat et les améliorations à prévoir.
+
+## Slide 45 (84 mots)
+
+Enfin, le troisième modèle est une liste de contrôle en dix points avant toute réponse sensible. La nature de l'interaction est-elle identifiée ? Les faits confirmés sont-ils distingués ? Les services compétents ont-ils été consultés ? La décision est-elle proportionnée ? Les données sont-elles protégées ? La réponse évite-t-elle toute invention ? Les validateurs sont-ils mobilisés ? Le canal est-il approprié ? Et le suivi est-il organisé ? Cette liste aide à décider, sans remplacer vos procédures internes. Merci à toutes et à tous.
