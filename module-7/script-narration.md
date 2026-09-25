@@ -1,0 +1,131 @@
+# Module 7 — Script de narration (Colossyan)
+
+Total : 3006 mots, soit environ 20 à 23 minutes.
+
+## Slide 1 (100 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans ce troisième jour de formation. Nous sommes le mercredi trente septembre deux mille vingt-six, et nous commençons avec le Module sept, consacré à l'adaptation des contenus aux différentes plateformes, pour une durée de deux heures. Ce module est animé par votre formateur principal, Pawou Batana, pour les Institutions et Fonds membres du RAFPRO, avec l'appui de la FNAFPP. Hier, vous avez appris à rédiger des contenus et à créer des visuels et des vidéos. Aujourd'hui, nous allons voir comment décliner un même message sur plusieurs canaux, sans jamais perdre sa cohérence.
+
+## Slide 2 (104 mots)
+
+Commençons par la question centrale de ce module. Une institution veut annoncer l'ouverture d'un programme de formation. Elle dispose d'un message officiel, d'un visuel, et peut-être d'une vidéo. Doit-elle publier exactement le même contenu sur son site web, LinkedIn, Facebook, WhatsApp et YouTube ? Pas nécessairement, car les publics, les usages et les possibilités de présentation diffèrent selon les canaux. Il faut donc distinguer ce qui reste identique, les faits, le sens, les engagements et l'identité, de ce qui peut s'adapter, l'accroche, la longueur, le ton, la structure, le format et l'appel à l'action. Retenez la formule. Adapter la forme sans déformer le fond.
+
+## Slide 3 (92 mots)
+
+À l'issue de ce module, vous serez capables d'identifier les caractéristiques des principales plateformes numériques, et de distinguer leurs publics et leurs usages possibles. Vous saurez choisir un canal en fonction d'un objectif et d'un public, adapter la longueur, le ton et la présentation d'un message, et sélectionner un format pertinent. Vous saurez aussi décliner un message institutionnel sur plusieurs canaux, préserver l'exactitude des informations et la cohérence de l'institution, et justifier vos choix. La compétence attendue est concrète. Produire plusieurs publications adaptées à leurs canaux, à partir d'un message institutionnel unique.
+
+## Slide 4 (100 mots)
+
+Distinguons d'abord trois notions souvent confondues. Une plateforme est un environnement numérique qui propose des fonctions de publication et d'interaction, comme LinkedIn, Facebook ou YouTube. Un canal est le moyen utilisé par l'institution pour atteindre un public, par exemple sa page LinkedIn officielle, son site web, ou une liste de diffusion WhatsApp. Et un format est la forme du contenu, comme un article, une publication courte, un carrousel, une vidéo ou une infographie. Une même plateforme peut accueillir plusieurs formats. Par exemple, une annonce peut devenir un article sur le site, une publication LinkedIn, et un message bref sur WhatsApp.
+
+## Slide 5 (96 mots)
+
+On peut regrouper les plateformes en cinq grandes familles. Les espaces institutionnels maîtrisés, comme le site web, le portail de candidature ou la lettre d'information, publient les informations détaillées et centralisent les références officielles. Les réseaux sociaux professionnels facilitent les échanges avec les entreprises et les partenaires. Les réseaux sociaux généralistes permettent d'informer des communautés variées et de susciter des interactions. Les plateformes vidéo servent aux témoignages, aux explications et aux démonstrations. Et les services de messagerie transmettent des informations pratiques à des destinataires identifiés. Aucune famille ne répond à elle seule à tous les besoins.
+
+## Slide 6 (98 mots)
+
+Les plateformes ne se choisissent pas par habitude. Une institution peut être présente partout sans atteindre efficacement ses publics prioritaires. Avant de choisir un canal, posez-vous cinq questions. Quel objectif poursuivons-nous ? Quel public voulons-nous atteindre ? Où ce public cherche-t-il réellement l'information ? Quel format l'aidera à comprendre le message ? Et avons-nous les moyens de produire, publier et suivre ce contenu ? Par exemple, un programme destiné aux entreprises peut demander une page détaillée sur le site, complétée par une publication sur un réseau professionnel. Fondez vos choix sur vos publics réels et vos résultats observés.
+
+## Slide 7 (93 mots)
+
+Faisons maintenant un exercice d'ouverture, en cinq minutes. Identifiez deux canaux utilisés actuellement par votre institution. Pour chacun, répondez à cinq questions. Quel public cherche-t-on à atteindre ? Quel type de contenu y publie-t-on ? Quel est l'objectif principal ? Le contenu est-il adapté au canal ? Et quelle amélioration pourriez-vous proposer ? Ensuite, deux ou trois d'entre vous présenteront leur constat à voix haute. Gardez un point en tête. Une forte présence sur une plateforme ne prouve pas, à elle seule, que celle-ci est pertinente pour tous les objectifs de votre institution.
+
+## Slide 8 (101 mots)
+
+Passons en revue les principaux canaux, en commençant par le site web institutionnel, qui est la source de référence. Il permet de présenter les informations officielles, les conditions d'éligibilité, les modalités de candidature, les documents à télécharger, les contacts, ainsi que les actualités et les résultats publiables. Pour bien l'utiliser, privilégiez un titre informatif, des informations complètes et structurées, des intertitres explicites, des liens utiles, et une date de mise à jour quand c'est pertinent. Par exemple, une page d'appel à candidatures doit expliquer clairement qui peut candidater, comment et dans quels délais. Les autres canaux renvoient ensuite vers cette page.
+
+## Slide 9 (93 mots)
+
+LinkedIn est surtout utilisé pour des échanges professionnels et institutionnels. Il peut être pertinent pour s'adresser aux entreprises, aux partenaires techniques et financiers, aux responsables de formation, aux professionnels, et aux acteurs de l'emploi et des compétences. Sur ce réseau, expliquez l'enjeu professionnel, présentez l'intérêt du programme, valorisez des résultats documentés, utilisez un ton institutionnel mais accessible, et proposez un lien vers la source officielle. Un exemple d'angle serait de renforcer les compétences de gestion des PME pour accompagner leur développement. Attention, un ton professionnel n'impose pas un langage complexe ou excessivement administratif.
+
+## Slide 10 (99 mots)
+
+Facebook peut permettre à une institution de communiquer avec des publics variés et d'animer une communauté. L'approche éditoriale repose sur une accroche immédiatement compréhensible, un message direct, des informations pratiques bien visibles, un visuel pertinent, un lien clair vers les détails, et une réponse organisée aux questions reçues. Par exemple, vous dirigez une PME ? Découvrez ce programme de formation en gestion financière et numérique. Une précision importante toutefois. Le public réellement atteint dépend de la communauté de votre page, du contexte local et des modalités de diffusion. Il doit donc être étudié à partir de vos propres données.
+
+## Slide 11 (98 mots)
+
+Instagram accorde une place importante aux contenus visuels et audiovisuels. Selon les fonctionnalités disponibles, vous pouvez y publier une photographie légendée, un carrousel explicatif, une vidéo courte, une story, ou une présentation visuelle de résultats. L'approche consiste à mettre en évidence une information principale, à soigner la lisibilité sur smartphone, à répartir les informations complexes sur plusieurs écrans, et à garder les détails dans la légende ou sur une page officielle. Surtout, évitez de transformer un document administratif complet en image illisible. Un carrousel peut par exemple présenter le programme, le public, les informations pratiques et la démarche.
+
+## Slide 12 (97 mots)
+
+WhatsApp sert à transmettre une information pratique à des destinataires identifiés, selon les règles de l'institution. Rédigez un message bref, avec un objet explicite, l'information essentielle bien visible, la date et l'échéance clairement indiquées, un lien vers la source officielle, et des coordonnées vérifiées si nécessaire. Par exemple, appel à candidatures PME, date limite le quinze octobre deux mille vingt-six, consultez la notice officielle. Mais prenez des précautions. Respectez les préférences des destinataires, évitez les envois répétitifs non sollicités, n'exposez pas les coordonnées des bénéficiaires, et ne faites pas circuler de documents confidentiels dans des groupes inadaptés.
+
+## Slide 13 (92 mots)
+
+YouTube et les plateformes vidéo sont pertinents lorsqu'un message gagne à être montré ou raconté en images. On peut y publier la présentation d'un programme, un témoignage autorisé, l'explication d'une procédure, un reportage, une vidéo de sensibilisation, ou un entretien. Pour réussir, fixez un objectif par vidéo, soignez les premières secondes, structurez les séquences, garantissez un son intelligible, rédigez un titre et une description exacts, et orientez vers la source officielle. Par exemple, une vidéo courte explique à qui s'adresse une formation, tandis que la page web fournit toutes les conditions détaillées.
+
+## Slide 14 (96 mots)
+
+Voici un tableau comparatif qui résume la fonction possible de chaque canal. Le site web sert de référence officielle, avec un article ou une page structurée. LinkedIn porte l'information professionnelle, avec un contexte, un enjeu et un lien. Facebook favorise l'information et l'interaction, avec une accroche claire et un visuel. Instagram sert l'explication visuelle, avec un carrousel ou une vidéo courte. WhatsApp transmet une information pratique, par un message concis. Et YouTube démontre et explique en vidéo. Attention, ce tableau présente des usages possibles, pas des profils universels. Vérifiez toujours les usages de vos propres communautés.
+
+## Slide 15 (87 mots)
+
+Une adaptation réussie repose sur cinq dimensions complémentaires. Le public, d'abord. Quelles informations sont prioritaires pour les destinataires ? L'angle, ensuite. Sous quel aspect présenter le message pour qu'il soit pertinent ? Le ton. Quel niveau de formalité et quel vocabulaire employer ? Le format. Texte, visuel, carrousel, vidéo, article ou message bref ? Et enfin l'appel à l'action. Quelle démarche concrète le destinataire peut-il effectuer ? Une règle encadre l'ensemble de ces choix. Aucune de ces adaptations ne doit modifier les faits ou les conditions officielles.
+
+## Slide 16 (86 mots)
+
+Qu'est-ce qu'une déclinaison multicanale ? C'est la production de plusieurs versions d'un même message pour différents canaux. Ce n'est surtout pas un simple copier-coller. Elle suppose de partir d'une information de référence, d'identifier les publics visés, et de déterminer la fonction de chaque canal. Il faut ensuite adapter l'angle, la longueur et le format, tout en préservant les faits essentiels. Enfin, il faut vérifier la cohérence des différentes versions, et organiser leur validation et leur diffusion. Retenez la formule. Un message de référence, plusieurs expressions adaptées.
+
+## Slide 17 (100 mots)
+
+Avant de produire des variantes, établissez une fiche de référence. Dans notre exemple fictif, l'institution est un Fonds national de formation professionnelle. Le programme porte sur la gestion financière et numérique, et s'adresse aux responsables de PME. Son objectif est de renforcer leurs compétences en gestion et en outils numériques. La date limite est le quinze octobre deux mille vingt-six, les modalités figurent dans la notice officielle, et la source est le site institutionnel. Ces éléments sont non négociables. Une variante ne doit jamais inventer une gratuité, un nombre de places, une certification ou des conditions absentes de la fiche.
+
+## Slide 18 (96 mots)
+
+Voici le message institutionnel de référence, sous forme de communiqué fictif. Un Fonds national de formation professionnelle annonce l'ouverture des candidatures à un programme de formation en gestion financière et numérique, destiné aux responsables de petites et moyennes entreprises. Ce programme vise à renforcer leurs compétences en gestion et dans l'utilisation des outils numériques. La date limite de candidature est fixée au quinze octobre deux mille vingt-six. Les personnes intéressées sont invitées à consulter la notice officielle sur le site institutionnel. Exercice rapide. Distinguez, dans ce texte, les informations obligatoires des éléments qui peuvent être reformulés.
+
+## Slide 19 (99 mots)
+
+Voyons la première déclinaison, pour le site institutionnel. Le titre est informatif, il annonce l'ouverture des candidatures au programme de formation en gestion financière et numérique des PME. Le texte présente ensuite le Fonds, le public et l'objectif de la formation. La date limite est mise en évidence sur une ligne dédiée. Puis les candidats sont invités à consulter la notice officielle pour connaître les conditions, les pièces éventuelles et les modalités de dépôt, avec un lien validé. Cette version privilégie une structure claire et l'orientation vers l'information complète. Et surtout, aucun détail absent du cas n'a été inventé.
+
+## Slide 20 (88 mots)
+
+Voici la deuxième déclinaison, pour LinkedIn. Le titre met en avant un enjeu, renforcer les compétences en gestion financière et numérique des PME. Le texte s'ouvre sur un constat professionnel. La maîtrise des outils de gestion et des usages numériques est un enjeu pour de nombreuses petites et moyennes entreprises. Il annonce ensuite le programme et son public, rappelle la date limite du quinze octobre, et renvoie vers la notice officielle. L'accroche est donc différente, plus orientée vers l'enjeu professionnel. Mais les informations officielles, elles, restent strictement inchangées.
+
+## Slide 21 (94 mots)
+
+Voici maintenant les déclinaisons trois et quatre, pour Facebook et WhatsApp. La version Facebook interpelle directement le lecteur. Vous dirigez une PME ? Elle annonce le programme et son objectif, met en évidence la date limite, et renvoie vers la notice officielle. La version WhatsApp est encore plus concise. Elle commence par un objet explicite, appel à candidatures, formation des responsables de PME. Puis elle donne le programme, la date limite et le lien vers la notice. Les deux versions conservent exactement les mêmes faits. WhatsApp privilégie simplement la transmission rapide de l'information pratique.
+
+## Slide 22 (98 mots)
+
+La cinquième déclinaison est visuelle, sous forme de carrousel ou de vidéo courte. Le carrousel tient en quatre écrans. Le premier annonce qu'un programme de formation est ouvert aux responsables de PME. Le deuxième présente le sujet, la gestion financière et les outils numériques. Le troisième affiche l'échéance du quinze octobre. Et le quatrième oriente vers la notice officielle. La vidéo courte suit la même logique, avec l'ouverture sur le public, l'annonce du programme, la date limite, puis la conclusion. Point de vigilance. Une version visuelle ne doit jamais omettre une condition essentielle au point de devenir trompeuse.
+
+## Slide 23 (91 mots)
+
+Place maintenant à l'atelier pratique, d'une durée totale de quarante-cinq minutes. Votre mission est de concevoir une mini-campagne multicanale. À partir du message de référence présenté dans ce module, chaque groupe produit au moins trois versions pour trois plateformes distinctes. Vous pouvez aussi utiliser un message réel de votre institution, à condition de disposer d'informations validées et de respecter la confidentialité. Vous remettrez quatre livrables. Une fiche de référence du message, trois publications adaptées, une justification de vos choix de canaux et de formats, et une vérification de la cohérence institutionnelle.
+
+## Slide 24 (85 mots)
+
+Première étape, établir la fiche de référence, en cinq minutes. Complétez les rubriques suivantes. L'objectif de communication, le public prioritaire, le message essentiel, les informations obligatoires, la source officielle, l'action attendue du public, et les éléments d'identité à respecter. Cette fiche est la fondation de tout votre travail. Elle garantit que toutes vos versions diront la même chose, même si elles le disent différemment. La consigne est donc très claire. Ne commencez aucune adaptation avant d'avoir validé collectivement cette fiche au sein de votre groupe.
+
+## Slide 25 (89 mots)
+
+Deuxième étape, choisir trois plateformes, en cinq minutes. Pour chacune, précisez le public visé, la fonction du canal, le format choisi, l'angle éditorial et l'appel à l'action. Voici un exemple de répartition. Le site web présente l'information de référence, sous forme d'article. LinkedIn informe les professionnels, par une publication. Et WhatsApp transmet l'échéance, par un message bref. Vous pouvez bien sûr choisir d'autres combinaisons, à condition de justifier leur pertinence au regard de votre objectif et de votre public. C'est cette justification qui fera la qualité de votre proposition.
+
+## Slide 26 (81 mots)
+
+Troisième étape, rédiger les trois versions, en quinze minutes. Respectez plusieurs contraintes. Préservez le message essentiel, et conservez toutes les informations obligatoires. Adaptez l'accroche et la longueur à chaque canal. Utilisez un ton conforme à la ligne éditoriale. Prévoyez un appel à l'action adapté. N'inventez aucune information. Et renvoyez vers la source officielle quand c'est nécessaire. Pour vérifier votre travail, posez-vous cette question de contrôle. Un lecteur qui recevrait deux de vos versions différentes comprendrait-il exactement la même information institutionnelle ?
+
+## Slide 27 (92 mots)
+
+Quatrième étape, adapter la présentation ou le format, en dix minutes. Pour au moins une de vos publications, proposez une déclinaison visuelle ou audiovisuelle. Ce peut être une maquette de visuel, un plan de carrousel, un scénario de vidéo courte, ou la structure d'une publication illustrée. Vos exigences sont les suivantes. Une hiérarchie claire, une bonne lisibilité sur le support retenu, le respect de l'identité visuelle, des photographies autorisées, un texte et une image cohérents, et des informations vérifiées. Une maquette ou un storyboard assez détaillé pour être finalisé plus tard suffit.
+
+## Slide 28 (90 mots)
+
+Cinquième étape, contrôler la cohérence, en cinq minutes. Avant la restitution, comparez vos trois versions à l'aide de cette grille. Poursuivent-elles le même objectif ? Le public de chaque canal est-il clairement identifié ? Les faits et les dates sont-ils identiques ? Les formats sont-ils adaptés aux canaux ? Le ton reste-t-il conforme à l'identité institutionnelle ? Les appels à l'action sont-ils cohérents entre eux ? Et les liens et informations pratiques ont-ils été vérifiés ? La règle est simple. Corrigez toute contradiction avant de considérer votre dossier comme finalisé.
+
+## Slide 29 (85 mots)
+
+Il est temps de passer à la restitution, en cinq minutes environ par groupe. Présentez votre message de référence, les trois plateformes choisies, les trois versions produites, les principales adaptations réalisées, et les éléments que vous avez conservés à l'identique. Je vous poserai ensuite quelques questions. Pourquoi avoir choisi ces plateformes ? Quelle différence d'angle avez-vous introduite ? Quelles informations avez-vous refusé de modifier ? Comment avez-vous vérifié la cohérence de vos versions ? Et quelle version nécessiterait encore une validation ou une correction ?
+
+## Slide 30 (94 mots)
+
+Voici la grille d'évaluation de l'activité pratique, fondée sur les critères du syllabus. Le critère C E cinq point un porte sur la cohérence du message, qui doit rester identique d'une plateforme à l'autre. C E cinq point deux porte sur l'adaptation du format aux caractéristiques du canal. C E cinq point trois porte sur l'adaptation rédactionnelle, c'est-à-dire le ton, la longueur et la présentation. Et C E cinq point quatre porte sur la cohérence institutionnelle, avec des spécificités exploitées sans altérer l'identité. J'évaluerai autant vos productions que votre capacité à expliquer vos choix.
+
+## Slide 31 (96 mots)
+
+Vérifions notre compréhension avec cinq questions. Un, pourquoi ne pas publier un texte identique partout ? Parce que les publics, les usages, les formats et les fonctions des canaux diffèrent. Deux, qu'est-ce qui doit rester constant ? Les faits, les informations officielles, les engagements et l'identité. Trois, un message WhatsApp peut-il être plus court qu'un article web ? Oui, s'il garde l'essentiel et donne accès aux détails. Quatre, une belle photo suffit-elle ? Non, l'image doit soutenir un message exact. Et cinq, comment vérifier une déclinaison ? En comparant les versions à la fiche de référence.
+
+## Slide 32 (96 mots)
+
+Pour conclure, voici les dix principes à retenir. Partir de l'objectif de communication, et identifier les publics prioritaires. Choisir les canaux selon leurs usages réels, et définir un message de référence validé. Distinguer les informations obligatoires des éléments adaptables. Adapter l'accroche, le ton, la longueur et le format. Exploiter les possibilités de chaque plateforme, sans suivre mécaniquement les tendances. Préserver l'identité institutionnelle. Vérifier les faits, les dates, les liens et les visuels. Et soumettre vos productions à la validation. Un message de référence, des adaptations par canal, une communication cohérente. Merci à toutes et à tous.
