@@ -1,0 +1,91 @@
+# DSC 423 — Chapitre 6 — Script de narration (Colossyan)
+
+Total : 1936 mots, soit environ 13 à 15 minutes.
+
+## Slide 1 (82 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le chapitre six du cours DSC quatre cent vingt-trois, consacré à l'analyse de la variance, que l'on appelle ANOVA. Nous entrons dans la troisième partie du cours, dédiée à la comparaison de modèles. L'ANOVA est un outil central. Elle permet de décomposer la variabilité de Y, de tester la significativité globale d'un modèle, et de comparer des modèles entre eux. Nous verrons aussi comment intégrer des variables catégorielles dans une régression, avec l'ANCOVA.
+
+## Slide 2 (80 mots)
+
+Voici les objectifs de ce chapitre. Vous comprendrez le principe de la décomposition de la variance dans un modèle de régression. Vous saurez construire et interpréter une table d'ANOVA. Vous réaliserez et interpréterez le test F global de significativité du modèle. Vous utiliserez l'ANOVA pour comparer des modèles emboîtés, grâce au test F partiel. Vous comprendrez le lien entre l'ANOVA et la régression avec variables catégorielles, c'est-à-dire l'ANCOVA. Et vous mettrez tout cela en oeuvre avec un logiciel statistique. Commençons.
+
+## Slide 3 (86 mots)
+
+Commençons par le principe de la décomposition de la variance. Dans un modèle de régression, l'objectif est d'expliquer la variabilité de la variable dépendante Y, à l'aide des variables explicatives X. Pour mesurer à quel point on y parvient, on décompose la variance totale de Y en deux composantes. D'une part, la variance expliquée, due à la régression, c'est la partie systématique du modèle. D'autre part, la variance résiduelle, non expliquée, due aux erreurs, c'est la partie aléatoire. Tout l'enjeu est de comparer ces deux parts.
+
+## Slide 4 (87 mots)
+
+Formalisons cette idée. Pour chaque observation i, on peut écrire une identité simple. L'écart entre Y i et la moyenne de Y est égal à la somme de deux termes. Le premier est l'écart entre la valeur prédite et la moyenne, c'est l'écart expliqué par le modèle, sa partie systématique. Le second est l'écart entre la valeur observée et la valeur prédite, c'est le résidu, la partie aléatoire non expliquée. Autrement dit, l'écart total égale l'écart expliqué plus le résidu. Cette égalité est vraie pour chaque observation.
+
+## Slide 5 (89 mots)
+
+En élevant ces écarts au carré et en les sommant sur toutes les observations, on obtient la décomposition fondamentale. La somme des carrés totale, SCT, est égale à la somme des carrés de la régression, SCR, plus la somme des carrés des erreurs, SCE. La SCT mesure la variabilité totale de Y. La SCR mesure la variabilité expliquée par le modèle. Et la SCE mesure la variabilité non expliquée, celle des résidus. Remarquez que le R deux n'est rien d'autre que le rapport entre la SCR et la SCT.
+
+## Slide 6 (89 mots)
+
+La table d'ANOVA récapitule cette décomposition. Elle comporte trois lignes, la régression, l'erreur et le total. Pour chaque ligne, on indique la somme des carrés et les degrés de liberté, k pour la régression, n moins k moins un pour l'erreur, et n moins un pour le total. On calcule ensuite les carrés moyens, en divisant chaque somme des carrés par ses degrés de liberté. La statistique F est le rapport du carré moyen de la régression sur le carré moyen de l'erreur, et on lui associe une p-value.
+
+## Slide 7 (89 mots)
+
+Interprétons les éléments de la table. Les degrés de liberté de la régression valent k, autant que de variables explicatives. Ceux de l'erreur valent n moins k moins un, le nombre d'observations moins le nombre de paramètres estimés. Et ceux du total valent n moins un. Le carré moyen de la régression, noté MSR, mesure la variance expliquée par variable. Le carré moyen de l'erreur, noté MSE, mesure la variance résiduelle, et c'est une estimation de sigma deux. Enfin, la statistique F, rapport des deux, teste la significativité globale.
+
+## Slide 8 (96 mots)
+
+Le test F global vérifie si le modèle explique une part significative de la variance de Y, c'est-à-dire si au moins un coefficient est non nul. L'hypothèse nulle dit que tous les coefficients, de bêta un à bêta k, sont nuls. La statistique F est égale à MSR sur MSE. On rejette l'hypothèse nulle si F dépasse la valeur critique, ou si la p-value est inférieure à alpha. Ce test équivaut à vérifier que le R deux est significativement différent de zéro. Un F élevé signifie que le modèle explique beaucoup plus que la simple moyenne.
+
+## Slide 9 (88 mots)
+
+Voyons maintenant comment l'ANOVA permet de comparer des modèles emboîtés. Deux modèles sont emboîtés si l'un contient toutes les variables de l'autre, plus éventuellement d'autres. Le modèle restreint est alors un cas particulier du modèle complet, où certains coefficients sont nuls. Par exemple, le modèle M zéro contient X un et X deux, tandis que le modèle M un contient X un, X deux, X trois et X quatre. M zéro est emboîté dans M un, c'est le cas particulier où bêta trois et bêta quatre valent zéro.
+
+## Slide 10 (88 mots)
+
+Le test F partiel vérifie si l'ajout d'un ensemble de variables améliore significativement le modèle. L'hypothèse nulle dit que les coefficients des variables ajoutées sont tous nuls, elles sont inutiles. La statistique F compare la baisse de la somme des carrés des erreurs, divisée par la différence de degrés de liberté, à la somme des carrés des erreurs du modèle complet, divisée par ses degrés de liberté. Si F est grand, avec une p-value faible, on préfère le modèle complet. Sinon, on garde le modèle restreint, plus parcimonieux.
+
+## Slide 11 (92 mots)
+
+Le test F partiel est au coeur des méthodes de sélection pas à pas, que nous avons vues au chapitre quatre. Les méthodes forward, backward et stepwise utilisent en effet des tests F partiels, ou leurs p-values équivalentes, pour décider d'ajouter ou de retirer une variable à chaque étape. Il existe aussi un lien étroit avec le test t. Quand on n'ajoute qu'une seule variable, le test F partiel est exactement équivalent au test t sur cette variable. Quiz, et pour deux variables ajoutées ? Il faut alors le test F partiel.
+
+## Slide 12 (91 mots)
+
+Les variables catégorielles, ou qualitatives, peuvent entrer dans une régression grâce aux variables indicatrices. Exemple, on prédit le salaire selon l'expérience et le genre. On crée une indicatrice Femme, qui vaut un pour une femme et zéro sinon. Homme est la catégorie de référence. Le modèle devient, salaire égale bêta zéro, plus bêta un fois l'expérience, plus bêta deux fois Femme. Bêta zéro est le salaire moyen d'un homme sans expérience. Bêta un est l'effet de l'expérience. Et bêta deux est l'écart de salaire entre femmes et hommes, à expérience égale.
+
+## Slide 13 (87 mots)
+
+L'ANCOVA, ou analyse de la covariance, généralise l'ANOVA. Elle combine une variable catégorielle, appelée facteur, et une ou plusieurs variables quantitatives, appelées covariables. Elle teste si les moyennes des groupes diffèrent, après ajustement sur les covariables. Exemple, comparer le rendement de trois variétés de blé, en contrôlant la quantité d'engrais. Dans le modèle, le terme bêta capture l'effet de l'engrais, et les termes alpha i mesurent les différences entre variétés. Le test F sur les alpha i indique si les variétés diffèrent, toutes choses égales par ailleurs.
+
+## Slide 14 (87 mots)
+
+Passons au logiciel. Avec R, c'est très simple. Si la variable genre est un facteur, la fonction lm crée automatiquement les indicatrices. On estime le modèle du salaire selon l'expérience et le genre, puis la fonction anova affiche la table d'ANOVA. Pour l'ANCOVA, on estime le rendement selon l'engrais et la variété, puis on applique anova. Avec Python, on crée les indicatrices avec get dummies de pandas, en supprimant la première modalité. On estime ensuite le modèle avec OLS, et la fonction anova lm donne la table.
+
+## Slide 15 (86 mots)
+
+Voyons la table d'ANOVA avec R, sur les données mtcars. On explique la consommation par le poids, la puissance et le nombre de cylindres. La fonction anova donne une table séquentielle, dite de type un, où l'ordre des variables compte. La fonction Anova du package car, avec une majuscule, donne les types deux et trois. Le type deux contrôle pour les autres variables, mais pas pour les interactions. Le type trois contrôle pour toutes les autres variables et interactions, il convient donc aux modèles avec interactions.
+
+## Slide 16 (87 mots)
+
+Pour comparer des modèles emboîtés avec R, on estime d'abord le modèle restreint, qui explique la consommation par le poids et la puissance. Puis le modèle complet, qui ajoute le nombre de cylindres et le type de transmission. On appelle ensuite la fonction anova avec les deux modèles en arguments. Elle réalise le test F partiel. Le résultat affiche un tableau avec, pour chaque modèle, les degrés de liberté et la somme des carrés des erreurs, puis la statistique F et la p-value du test de comparaison.
+
+## Slide 17 (99 mots)
+
+Lisons cette table d'ANOVA de type un. La ligne du poids a une somme des carrés de huit cent quarante-sept virgule soixante-treize, c'est la variance expliquée par l'ajout du poids. Il est très significatif, avec une p-value inférieure à zéro virgule zéro zéro un. La puissance apporte encore une amélioration significative après le poids, avec une p-value de zéro virgule zéro zéro dix-huit. Les cylindres sont à la limite, avec zéro virgule zéro trente-quatre. Enfin, la ligne des résidus donne la SCE restante et le MSE, sept virgule vingt. Attention, en type un, l'ordre des variables change les résultats.
+
+## Slide 18 (83 mots)
+
+Passons à une étude de cas complète. Nous reprenons le jeu de données Boston Housing, et nous souhaitons prédire le prix médian d'une maison à partir de plusieurs variables explicatives. Nous disposons de nombreuses variables potentielles, et la question est la suivante. L'ajout de certaines variables améliore-t-il significativement le modèle, ou bien complique-t-il le modèle sans réel bénéfice ? Pour y répondre, nous allons construire une série de modèles emboîtés, puis les comparer avec l'ANOVA, le R deux ajusté et les critères d'information.
+
+## Slide 19 (86 mots)
+
+Voici les quatre modèles testés, chacun emboîté dans le suivant. Le modèle M zéro ne contient que le nombre de pièces et la proportion de population défavorisée. Le modèle M un ajoute le taux de criminalité et l'âge des maisons. Le modèle M deux ajoute encore le ratio élèves par enseignant et la taxe foncière. Enfin, le modèle M trois contient toutes les autres variables disponibles. Cette construction progressive permet de mesurer, à chaque étape, l'apport d'un nouveau groupe de variables au pouvoir explicatif du modèle.
+
+## Slide 20 (90 mots)
+
+Voici la mise en oeuvre avec R. On charge les données Boston du package MASS. On estime les quatre modèles avec lm, du plus simple au plus complet, le dernier utilisant toutes les variables grâce au point dans la formule. On appelle ensuite la fonction anova avec les quatre modèles, pour enchaîner les tests F partiels. On extrait le R deux ajusté de chaque modèle à partir de son résumé. Et enfin, on compare les critères d'information avec les fonctions AIC et BIC. Trois outils complémentaires pour une même décision.
+
+## Slide 21 (89 mots)
+
+Interprétons. Le test F partiel montre que l'ajout du taux de criminalité et de l'âge est significatif, avec une p-value inférieure à zéro virgule zéro zéro un. L'ajout du ratio élèves par enseignant et de la taxe l'est aussi. En revanche, l'ajout de toutes les autres variables apporte peu. Le R deux ajusté augmente jusqu'à M deux, puis stagne, signe de sur-ajustement potentiel. L'AIC et le BIC sont les plus faibles pour M deux ou M trois, le BIC préférant les modèles parcimonieux. Décision finale, on retient M deux.
+
+## Slide 22 (85 mots)
+
+Résumons ce chapitre. La décomposition SCT égale SCR plus SCE est le fondement de l'ANOVA en régression. La table d'ANOVA résume les sommes des carrés, les degrés de liberté, les carrés moyens et le test F global, qui mesure la significativité du modèle. Le test F partiel compare des modèles emboîtés. Les variables catégorielles s'intègrent grâce aux indicatrices, c'est l'ANCOVA. Les tables de type un dépendent de l'ordre des variables. Enfin, combiner ANOVA, AIC, BIC et R deux ajusté permet de choisir le modèle optimal.
