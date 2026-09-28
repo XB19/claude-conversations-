@@ -1,0 +1,71 @@
+# MGT 101 — Examen final — Script de narration (Colossyan)
+
+Total : 1419 mots, soit environ 9 à 11 minutes.
+
+## Slide 1 (87 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans cette présentation de l'examen final du cours MGT cent un. L'examen est organisé en plusieurs parties. La partie A porte sur la grammaire, et elle est notée sur vingt points. Il vous sera demandé d'identifier et de corriger des erreurs dans des phrases techniques. Par exemple, un verbe mal accordé avec son sujet, ou une question indirecte mal construite. Relisez chaque phrase lentement, repérez le sujet et le verbe, puis vérifiez l'accord, le temps et l'ordre des mots.
+
+## Slide 2 (82 mots)
+
+La partie B porte sur la construction de phrases, et elle est également notée sur vingt points. Ici, vous devrez construire ou transformer des phrases. Par exemple, passer d'une phrase affirmative à une phrase négative ou interrogative, relier deux phrases simples avec une conjonction, ou transformer une phrase au discours indirect. Pour réussir cette partie, appuyez-vous sur la progression vue en cours, de la phrase simple à la phrase composée, puis à la phrase complexe. Chaque transformation correspond à une règle précise.
+
+## Slide 3 (81 mots)
+
+La partie C est consacrée à la lecture technique, et elle est notée sur vingt points. Vous lirez un court texte technique, puis vous répondrez à des questions de compréhension. Il peut s'agir de retrouver une information précise, d'expliquer un terme, ou d'identifier l'idée principale d'un paragraphe. Mon conseil est de lire d'abord les questions, puis le texte, en repérant la topic sentence de chaque paragraphe. Répondez ensuite avec des phrases complètes et correctes, car la qualité de l'anglais compte aussi.
+
+## Slide 4 (82 mots)
+
+La partie D porte sur la rédaction technique. C'est la partie la plus importante, notée sur vingt-cinq points. Vous devrez rédiger un texte technique structuré, avec une introduction, un développement et une conclusion. Pensez à tout ce que nous avons vu. Des paragraphes construits autour d'une topic sentence, des connecteurs logiques comme first, in addition et as a result, des phrases courtes et précises, et une ponctuation soignée. Gardez quelques minutes à la fin pour relire votre texte et corriger les accords.
+
+## Slide 5 (84 mots)
+
+La partie E porte sur la communication, et elle est notée sur quinze points. Elle évalue votre capacité à communiquer en anglais dans un contexte professionnel. Il peut s'agir de rédiger un court message, de formuler une consigne, ou de présenter une information de manière claire. Utilisez un registre professionnel, des formules adaptées, et une structure simple. Soyez courtois, précis et concis. Si l'on additionne les cinq parties, vingt, vingt, vingt, vingt-cinq et quinze, on obtient bien un total de cent points pour l'examen.
+
+## Slide 6 (85 mots)
+
+Passons maintenant au projet final. Chaque étudiant, ou chaque groupe, choisit un domaine technique. Les domaines proposés sont l'informatique, les réseaux, la cybersécurité, les télécommunications, l'électronique, l'électrotechnique, l'énergie renouvelable, et le génie logiciel. Choisissez un domaine qui vous intéresse vraiment, et que vous connaissez un peu, car vous allez produire plusieurs documents autour de ce thème. Le projet comporte cinq livrables, que nous allons découvrir un par un dans les slides suivantes. Vous pouvez aussi demander conseil à votre enseignant avant de faire votre choix.
+
+## Slide 7 (83 mots)
+
+Le livrable un est un glossaire technique. Vous devez y rassembler de trente à cinquante termes propres à votre domaine. Par exemple, pour les réseaux, vous pourriez retenir server, router, cable ou security. Pour chaque terme, indiquez sa traduction en français, et si possible une courte définition ou une phrase d'exemple en anglais. Ce glossaire vous servira de base pour tous les autres livrables. Il vous aidera aussi dans votre future vie professionnelle, car le vocabulaire technique est la clé de la compréhension.
+
+## Slide 8 (80 mots)
+
+Le livrable deux est une description technique, d'une longueur de cent cinquante à deux cents mots. Vous décrirez un système, un équipement ou un réseau de votre domaine. Reprenez la structure vue en semaine dix. Une topic sentence qui présente l'idée principale, des phrases de développement qui décrivent les éléments et leur fonctionnement, et une phrase de conclusion. Utilisez les termes de votre glossaire, et veillez à l'accord des verbes, surtout à la troisième personne du singulier, source fréquente d'erreurs.
+
+## Slide 9 (83 mots)
+
+Le livrable trois est un mini mode d'emploi. Le sujet proposé est How to connect the router, comment connecter le routeur. Il doit comporter cinq étapes. Rappelez-vous les règles de la rédaction technique. Chaque étape commence par un verbe à l'impératif, décrit une seule action, et reste courte. Par exemple, Connect the router to the power supply. Puis, Wait for the power indicator to turn green. Numérotez vos étapes, et utilisez des mots de liaison comme first, then et finally pour guider l'utilisateur.
+
+## Slide 10 (80 mots)
+
+Le livrable quatre est une liste de consignes de sécurité. Vous devez en rédiger au moins dix. Là encore, on utilise l'impératif, avec des phrases courtes qui ne laissent aucune place à l'interprétation. Par exemple, Wear protective equipment. Ou encore, Do not open the device while it is connected to the power supply. Et Disconnect the power before maintenance. Pensez aux risques réels de votre domaine, électriques, informatiques ou physiques. Une consigne de sécurité claire peut éviter un accident grave.
+
+## Slide 11 (85 mots)
+
+Le livrable cinq est une présentation orale, d'une durée de cinq à dix minutes. Vous présenterez votre projet en anglais, devant la classe. Reprenez la structure vue en semaine douze. En introduction, Good morning. Today, I am going to present. Puis développez vos idées avec First, Secondly, In addition et Finally. Et concluez avec To conclude, puis Thank you for your attention. Regardez votre public, et appuyez-vous sur quelques notes seulement. Entraînez-vous à voix haute plusieurs fois, chronométrez-vous, et parlez lentement pour être bien compris.
+
+## Slide 12 (88 mots)
+
+Voici la grille d'évaluation du projet final. La grammaire compte pour vingt points, et la construction des phrases pour vingt points également. Le vocabulaire technique est noté sur quinze points, et l'organisation du texte sur quinze points. La clarté compte pour dix points, la ponctuation pour dix points, et la présentation orale pour dix points. Le total est de cent points. Petit quiz, quels critères pèsent le plus lourd ? La bonne réponse est la grammaire et la construction, car ce sont les fondations de tout le reste.
+
+## Slide 13 (83 mots)
+
+Ce tableau récapitule les douze semaines du cours, et les chapitres un à huit du manuel qui leur correspondent. Nous sommes partis des éléments de base de la phrase, puis nous avons étudié le groupe verbal, les phrases composées et complexes, les structures infinitives et participiales, le discours indirect, le thème et le propos, et enfin la ponctuation et la rédaction. Utilisez ce tableau comme plan de révision. Pour chaque semaine, vérifiez que vous maîtrisez la règle principale et que vous savez l'appliquer.
+
+## Slide 14 (84 mots)
+
+Voyons maintenant la pondération de la note finale. Les quiz, au nombre de quatre, comptent chacun pour cinq pour cent, soit vingt pour cent au total. Les devoirs représentent vingt pour cent. Les examens partiels comptent pour trente pour cent, et l'examen final pour trente pour cent. Le total fait bien cent pour cent. Retenez que le travail régulier, quiz et devoirs, pèse autant que l'examen final. Chaque effort fourni pendant le semestre compte donc réellement dans votre note. Ne négligez donc aucune évaluation.
+
+## Slide 15 (86 mots)
+
+Voici les six acquis d'apprentissage du cours, notés de LO un à LO six. Ils décrivent ce que vous devez savoir faire à la fin du semestre. Construire des phrases correctes, simples, composées et complexes. Maîtriser le groupe verbal et les temps. Comprendre et rapporter des propos. Organiser un paragraphe et un texte technique. Rédiger des documents techniques clairs, comme des notices ou des consignes de sécurité. Et enfin communiquer oralement de manière structurée, avec un registre professionnel. L'examen et le projet évaluent exactement ces compétences.
+
+## Slide 16 (82 mots)
+
+Voici la bibliographie du cours. Le manuel principal est La phrase anglaise, de Langlois et Jones, publié chez Ellipses en deux mille vingt et un. C'est de ce manuel que sont tirés les chapitres étudiés chaque semaine. Vient ensuite Anglais technique, points clefs, paru en deux mille dix-huit, très utile pour le vocabulaire. Enfin, le Oxford Advanced Learner's Dictionary, dans sa huitième édition, vous aidera à vérifier le sens, la prononciation et l'usage des mots. Gardez ces ouvrages à portée de main.
+
+## Slide 17 (84 mots)
+
+Pour conclure, retenez la progression de tout ce cours. Construire, relier, complexifier, organiser, rédiger et communiquer. On commence par construire une phrase simple, comme The technician checks the system. Puis on la relie à d'autres phrases, on la complexifie avec des subordonnées, on organise l'ensemble en paragraphes, on rédige un document complet, et enfin on communique ce contenu à l'oral. Chaque étape repose sur la précédente. Merci pour votre attention tout au long de ce semestre, et bonne réussite à toutes et à tous.

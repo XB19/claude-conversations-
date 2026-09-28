@@ -1,0 +1,39 @@
+# MGT 101 — Semaine 06 — Script de narration (Colossyan)
+
+Total : 746 mots, soit environ 5 à 6 minutes.
+
+## Slide 1 (81 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans la semaine six du cours MGT cent un. Cette semaine est un peu particulière, puisqu'elle est consacrée à l'examen à mi-parcours. C'est l'occasion de faire le point sur tout ce que nous avons appris depuis le début du semestre, et de vérifier que les bases sont bien solides avant d'aborder la deuxième partie du cours, plus complexe. Nous allons voir ensemble comment cet examen est organisé, et comment vous y préparer efficacement.
+
+## Slide 2 (84 mots)
+
+L'évaluation à mi-parcours intervient après les cinq premières semaines de progression. Elle porte donc sur l'ensemble des notions étudiées jusqu'ici, les types de phrases, le sujet, le verbe et ses compléments, les adverbes, et la phrase composée. Son objectif n'est pas seulement de vous noter. Il est aussi de vous aider à identifier vos points forts et les notions à consolider. Profitez de cette étape pour revoir vos cours, refaire les exercices, et poser vos questions avant l'examen. C'est une étape importante du semestre.
+
+## Slide 3 (83 mots)
+
+Voyons le barème officiel du cours. Les examens partiels représentent trente pour cent de la note finale. Les autres composantes sont les suivantes. Les quiz et interrogations comptent pour vingt pour cent. Les devoirs de maison comptent pour vingt pour cent. Et l'examen final compte pour trente pour cent. Vous le voyez, l'examen à mi-parcours pèse autant que l'examen final. Il est donc important de le préparer sérieusement, en révisant régulièrement plutôt qu'à la dernière minute. Le total fait bien cent pour cent.
+
+## Slide 4 (81 mots)
+
+Voici une proposition de contenu pour cet examen, organisé en cinq parties. La partie A porte sur les types de phrases. La partie B porte sur le sujet. La partie C porte sur les verbes. La partie D porte sur les adverbes. Et la partie E porte sur la phrase composée. Chaque partie correspond donc à une semaine de cours. Pour vous préparer, reprenez chaque semaine l'une après l'autre, et vérifiez que vous maîtrisez bien les règles et les exemples essentiels.
+
+## Slide 5 (84 mots)
+
+La partie A porte sur les types de phrases. Vous devrez identifier et transformer des phrases. Par exemple, on pourra vous demander de reconnaître une phrase déclarative, interrogative, impérative ou exclamative. On pourra aussi vous demander de passer une phrase de la forme affirmative à la forme négative, ou de la transformer en question. Pensez à bien utiliser les auxiliaires do, does et did, et à respecter l'ordre des mots dans les questions indirectes, comme dans Could you tell me where the server is.
+
+## Slide 6 (81 mots)
+
+La partie B porte sur le sujet. Vous devrez corriger des erreurs d'accord entre le sujet et le verbe. Rappelez-vous les règles essentielles. Au présent simple, le verbe prend un s à la troisième personne du singulier, comme dans The engineer works. Un sujet pluriel ou composé demande un verbe sans s, comme dans The engineer and the technician work. Et attention aux noms indénombrables, comme information et equipment, qui s'accordent au singulier. Ces erreurs sont fréquentes, alors relisez-vous avec attention.
+
+## Slide 7 (80 mots)
+
+La partie C porte sur les verbes. Vous devrez identifier, dans une phrase, le sujet, le verbe, le complément direct et le complément indirect. Par exemple, dans The engineer gives the technician the report, le sujet est the engineer, le verbe est gives, le complément direct est the report, et le complément indirect est the technician. Pour vous aider, posez-vous les bonnes questions. Qui fait l'action ? Quelle est l'action ? Sur quoi porte-t-elle ? Et à qui s'adresse-t-elle ?
+
+## Slide 8 (85 mots)
+
+La partie D porte sur les adverbes. Vous devrez replacer correctement des adverbes dans une phrase. Rappelez-vous qu'en anglais, on évite de placer l'adverbe entre le verbe et son complément direct. On dira par exemple, The technician repaired the system quickly, ou The technician quickly repaired the system, mais jamais repaired quickly the system. Pensez aussi à l'ordre des compléments circonstanciels, avec généralement le lieu avant le temps, comme dans in the laboratory yesterday. Relisez bien vos notes de cours sur les adverbes avant l'examen.
+
+## Slide 9 (87 mots)
+
+Enfin, la partie E porte sur la phrase composée. Vous devrez relier plusieurs propositions en utilisant les connecteurs appropriés. Choisissez le connecteur selon le lien logique. And pour ajouter, but pour opposer, so pour exprimer une conséquence, et however ou therefore pour relier deux phrases de façon plus formelle. N'oubliez pas la ponctuation, avec la virgule avant la conjonction, ou le point-virgule pour juxtaposer. Relisez toujours votre copie avant de la rendre. Bonne préparation à toutes et à tous, et bon courage pour cet examen à mi-parcours.
