@@ -1,0 +1,47 @@
+# DSC 324 — Chapitre 3 — Script de narration (Colossyan)
+
+Total : 916 mots, soit environ 6 à 7 minutes.
+
+## Slide 1 (84 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le chapitre trois du cours DSC trois cent vingt-quatre, consacré à la réduction dimensionnelle et à l'introduction de l'analyse en composantes principales, que l'on appelle souvent PCA, d'après son nom anglais. Nous avons vu que les données comportant de nombreuses variables sont difficiles à visualiser et à interpréter. La réduction dimensionnelle apporte une réponse élégante à ce problème, et la PCA en est la méthode la plus utilisée. Découvrons ensemble son principe et sa logique.
+
+## Slide 2 (80 mots)
+
+Voici les objectifs pédagogiques de ce chapitre. Premièrement, expliquer le principe général de la réduction dimensionnelle. Deuxièmement, expliquer les objectifs et les principes fondamentaux de la PCA. Troisièmement, comprendre l'intérêt de la PCA pour les données multidimensionnelles, notamment lorsque les variables sont nombreuses et corrélées. Et quatrièmement, interpréter les premières composantes principales. Ce chapitre pose les bases théoriques. Le chapitre suivant sera consacré à la mise en oeuvre complète de la méthode sur des données réelles. Commençons sans attendre. Allons-y.
+
+## Slide 3 (80 mots)
+
+Revenons à la problématique de la dimensionnalité. Comme nous l'avons vu au chapitre un, un nombre élevé de variables complique la visualisation, l'interprétation, et parfois même la modélisation. Pourtant, ces variables sont rarement toutes indépendantes. Bien souvent, plusieurs variables mesurent en partie un même phénomène sous-jacent. Par exemple, le revenu, le patrimoine et les dépenses reflètent tous le niveau de vie. La réduction dimensionnelle exploite précisément cette redondance, pour représenter l'information essentielle avec beaucoup moins de nouvelles variables. Voyons comment.
+
+## Slide 4 (80 mots)
+
+Réduire la dimensionnalité, c'est chercher une représentation des données dans un espace de dimension q, très inférieure au nombre p de variables d'origine, tout en conservant le maximum d'information pertinente. Deux grandes philosophies coexistent. Les approches linéaires, comme l'analyse en composantes principales, construisent de nouvelles variables qui sont des combinaisons linéaires des variables d'origine. Les approches non linéaires, comme t-SNE ou UMAP, sont plus adaptées à la seule visualisation de structures complexes, mais leurs axes sont plus difficiles à interpréter.
+
+## Slide 5 (85 mots)
+
+L'analyse en composantes principales est la méthode linéaire de réduction dimensionnelle la plus utilisée en statistique multivariée. Son objectif est de transformer p variables corrélées en un nouvel ensemble de variables non corrélées, appelées composantes principales. Elles sont ordonnées. La première capture le maximum de variance possible. La deuxième capture le maximum de variance restante, tout en étant orthogonale à la première. Et ainsi de suite, chaque composante maximise la variance restante, sous contrainte d'orthogonalité avec les précédentes. C'est ce qui les rend si utiles.
+
+## Slide 6 (83 mots)
+
+Formellement, la première composante s'écrit C un égale a un un fois X un, plus a un deux fois X deux, et ainsi de suite jusqu'à a un p fois X p, avec une contrainte, la somme des carrés des coefficients vaut un. Ces coefficients, appelés loadings ou saturations, indiquent la contribution de chaque variable d'origine à la composante. Mathématiquement, on les obtient par la décomposition en valeurs propres et vecteurs propres de la matrice de covariance, ou de corrélation, des variables d'origine.
+
+## Slide 7 (89 mots)
+
+Pourquoi faut-il standardiser avant une PCA ? Parce que la PCA maximise la variance. Si les variables sont exprimées dans des unités différentes, par exemple un revenu en milliers d'euros et un âge en années, la variable de plus grande échelle aura une variance énorme, et dominera artificiellement les premières composantes. Il faut donc, sauf cas particulier, standardiser toutes les variables, c'est-à-dire leur donner une moyenne nulle et un écart-type égal à un. Cela revient à travailler sur la matrice de corrélation plutôt que sur la matrice de covariance.
+
+## Slide 8 (81 mots)
+
+J'insiste sur ce point de vigilance. Oublier de standardiser les variables avant une PCA est l'une des erreurs les plus fréquentes en pratique. Elle conduit à des composantes principales dominées par les variables de plus grande variance, sans aucun lien avec leur pertinence réelle pour l'analyse. Le résultat semble correct, les graphiques sont jolis, mais l'interprétation est complètement faussée. Prenez donc le réflexe de vérifier cette étape à chaque fois, dans votre code comme dans les analyses que l'on vous présente.
+
+## Slide 9 (80 mots)
+
+Comment interpréter les premières composantes ? En examinant leurs loadings. Par exemple, si plusieurs variables économiques ont des coefficients élevés et de même signe sur une composante, on peut l'interpréter comme un facteur général de niveau de vie. Cette étape est essentielle, car elle transforme un résultat purement mathématique en une information utile à la décision. Par ailleurs, la proportion de variance expliquée par chaque composante indique son importance relative. Nous verrons son calcul et son usage au chapitre quatre.
+
+## Slide 10 (80 mots)
+
+Retenons les points clés. La réduction dimensionnelle représente l'essentiel de l'information dans un espace de dimension très inférieure au nombre de variables d'origine. La PCA construit des composantes principales non corrélées, combinaisons linéaires des variables d'origine, qui maximisent successivement la variance expliquée. La standardisation préalable est indispensable, sous peine de favoriser les variables de grande échelle. Et l'interprétation d'une composante repose sur l'examen de ses loadings. Ces quatre idées vous accompagneront dans tous les chapitres consacrés à la réduction dimensionnelle.
+
+## Slide 11 (94 mots)
+
+Voici les corrigés des exercices. Un, sans standardisation, le chiffre d'affaires, dont la variance est de loin la plus grande, dominerait la première composante, qui ne ferait que reproduire cette variable. Deux, une composante où les dépenses de loisirs, de restauration et d'habillement ont toutes des coefficients positifs élevés peut s'interpréter comme un facteur de consommation discrétionnaire, ou de train de vie. Trois, la deuxième composante est construite sous contrainte d'orthogonalité, pour ne capter que la variance que la première n'explique pas encore. Elles ne partagent donc aucune information, et ne sont pas corrélées.

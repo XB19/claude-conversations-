@@ -1,0 +1,51 @@
+# DSC 324 — Chapitre 6 — Script de narration (Colossyan)
+
+Total : 1001 mots, soit environ 7 à 8 minutes.
+
+## Slide 1 (88 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le chapitre six du cours DSC trois cent vingt-quatre. Ce chapitre est un peu particulier. Il ne présente pas de nouvelle méthode, mais propose une synthèse et une révision des cinq premiers chapitres, en vue de l'examen de mi-parcours. Nous allons revoir ensemble les notions essentielles, repérer les liens entre les chapitres, et identifier les confusions les plus fréquentes. L'objectif est que vous abordiez cet examen avec une vision claire et structurée de tout ce que nous avons appris.
+
+## Slide 2 (80 mots)
+
+Voici les objectifs de ce chapitre. Premièrement, consolider les acquis des cinq premiers chapitres du cours. Deuxièmement, structurer une stratégie de révision efficace en vue de l'examen de mi-parcours. Plutôt que de relire passivement vos notes, vous apprendrez à les organiser. Et troisièmement, vous entraîner à mobiliser les concepts de façon transversale, plutôt que chapitre par chapitre. C'est exactement ce que l'examen attendra de vous, car les questions croisent souvent plusieurs notions à la fois, par exemple visualisation et PCA.
+
+## Slide 3 (81 mots)
+
+Voici la carte mentale du cours, pour les semaines un à cinq. L'examen de mi-parcours porte sur l'ensemble des contenus suivants. Les fondements de l'analyse avancée des données. La visualisation. Les données multidimensionnelles et leurs défis. La réduction dimensionnelle. L'analyse en composantes principales, dans ses principes et dans sa mise en oeuvre. Et enfin l'analyse factorielle. Nous allons reprendre chaque semaine brièvement, en rappelant les notions incontournables. Je vous conseille de noter ces rappels, ils forment une excellente fiche de révision.
+
+## Slide 4 (81 mots)
+
+Semaine un, les fondements. Retenez d'abord la matrice de données, de dimension n sur p, avec n observations en lignes et p variables en colonnes. Retenez ensuite les types de variables, quantitatives continues ou discrètes, et qualitatives nominales ou ordinales. Et enfin, les défis des données multidimensionnelles, la difficulté de visualisation, la redondance entre variables, et la malédiction de la dimensionnalité, qui fait perdre leur sens aux notions de distance quand le nombre de variables augmente fortement. Ce sont les bases.
+
+## Slide 5 (80 mots)
+
+Semaine deux, la visualisation. Il faut connaître trois familles de graphiques. Les visualisations univariées, l'histogramme et le boxplot, qui décrivent une seule variable. Les visualisations bivariées, le nuage de points pour deux variables quantitatives, et le boxplot comparatif pour une variable quantitative selon des groupes. Et les visualisations multidimensionnelles, la carte de chaleur des corrélations, le pairplot, et les coordonnées parallèles. Pour chaque graphique, sachez dire quel objectif il sert, et pour quel type de variables il convient. Révisez-les bien.
+
+## Slide 6 (83 mots)
+
+Semaine trois, les principes de la PCA. Les composantes principales sont des combinaisons linéaires des variables d'origine. Elles sont non corrélées entre elles, et maximisent successivement la variance expliquée, la première en capturant le plus, la deuxième le maximum restant, et ainsi de suite. Et surtout, n'oubliez jamais que la standardisation des variables est indispensable avant une PCA. Sans elle, les variables de plus grande échelle dominent artificiellement les résultats. C'est une question très fréquente à l'examen, alors soyez prêts à l'expliquer clairement.
+
+## Slide 7 (86 mots)
+
+Semaine quatre, la mise en oeuvre de la PCA. Pour choisir le nombre de composantes, on dispose du scree plot et de son coude, du critère de Kaiser, qui retient les valeurs propres supérieures à un, et de la variance expliquée cumulée. Pour interpréter les résultats, on utilise le cercle des corrélations, pour les variables, le score plot, pour les individus, et le biplot, qui combine les deux. Entraînez-vous à lire chacun de ces graphiques, car l'examen vous demandera très probablement d'en interpréter au moins un.
+
+## Slide 8 (83 mots)
+
+Semaine cinq, l'analyse factorielle. Retenez la notion de facteurs latents, ces dimensions cachées qui expliquent les corrélations entre variables. Retenez la distinction entre variance commune, partagée et expliquée par les facteurs, et variance spécifique, propre à chaque variable. Retenez la communalité, part de la variance d'une variable expliquée par les facteurs. Et enfin, la rotation Varimax, qui facilite l'interprétation en faisant en sorte que chaque variable charge fortement sur un seul facteur. Ces quatre notions suffisent pour répondre à la plupart des questions.
+
+## Slide 9 (83 mots)
+
+Quel est le fil conducteur de ces cinq chapitres ? Structurer avant de décider. Chaque méthode répond au même besoin, structurer l'information contenue dans des données complexes, avant de pouvoir en tirer des conclusions fiables. La visualisation représente l'information. La PCA la résume. L'analyse factorielle révèle ses dimensions cachées. Si vous gardez ce fil en tête, vous saurez toujours situer une méthode par rapport aux autres, et justifier son utilisation dans un contexte donné. C'est exactement ce que l'on attend d'un bon analyste.
+
+## Slide 10 (81 mots)
+
+Attention à une confusion fréquente à l'examen. La PCA et l'analyse factorielle produisent des résultats numériquement proches, mais elles répondent à des questions différentes. La PCA résume la variance totale. L'analyse factorielle explique les corrélations par des facteurs cachés. Un exercice classique consiste justement à justifier, pour un cas donné, le choix de l'une plutôt que de l'autre. Préparez donc une réponse type, claire et argumentée, qui mentionne l'objectif de chaque méthode et la notion de variance commune. Ce sera payant.
+
+## Slide 11 (82 mots)
+
+Retenons les points clés pour l'examen. Toujours relier une technique à son objectif, décrire avec la visualisation, résumer la variance avec la PCA, ou expliquer les corrélations par des facteurs cachés avec l'analyse factorielle. Savoir choisir une visualisation adaptée au nombre et au type de variables. Savoir interpréter un scree plot, un cercle des corrélations et un score plot. Et savoir distinguer, avec des arguments précis, la PCA de l'analyse factorielle. Si vous maîtrisez ces quatre points, vous êtes prêts pour l'examen.
+
+## Slide 12 (93 mots)
+
+Voici des pistes de corrigé. Un, votre carte mentale peut relier la visualisation, qui repère des variables corrélées sur la carte de chaleur, à la PCA, qui les résume. Deux, pour identifier des dimensions psychologiques sous-jacentes à la satisfaction, on choisit l'analyse factorielle, qui cherche des facteurs latents. Pour créer un simple indicateur composite dans un tableau de bord, on choisit la PCA, qui résume la variance. Trois, la variance totale inclut la variance commune et la variance spécifique. La PCA résume toute la variance, l'analyse factorielle seulement la variance commune. Bonne révision.

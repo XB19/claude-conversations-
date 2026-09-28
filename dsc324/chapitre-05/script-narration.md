@@ -1,0 +1,47 @@
+# DSC 324 — Chapitre 5 — Script de narration (Colossyan)
+
+Total : 932 mots, soit environ 6 à 7 minutes.
+
+## Slide 1 (80 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le chapitre cinq du cours DSC trois cent vingt-quatre, consacré à l'analyse factorielle. Après l'analyse en composantes principales, nous découvrons une méthode voisine, mais fondée sur une logique différente. L'analyse factorielle cherche des dimensions cachées, appelées facteurs latents, qui expliqueraient les corrélations observées entre les variables. C'est une méthode très utilisée en sciences sociales, en marketing et en psychologie, par exemple pour analyser des questionnaires de satisfaction ou de personnalité. Commençons.
+
+## Slide 2 (80 mots)
+
+Voici les objectifs pédagogiques de ce chapitre. Premièrement, expliquer les principes fondamentaux de l'analyse factorielle. Deuxièmement, identifier les relations entre variables susceptibles de révéler des facteurs communs. Troisièmement, interpréter les facteurs obtenus à partir des variables observées. Et quatrièmement, distinguer clairement les dimensions observées, celles que l'on mesure directement, des dimensions latentes, que l'on ne peut pas mesurer directement mais que l'on déduit des données. Cette distinction est au coeur de toute la méthode. Voyons cela ensemble, pas à pas.
+
+## Slide 3 (81 mots)
+
+L'analyse factorielle part d'une hypothèse différente de celle de la PCA. Elle postule l'existence d'un petit nombre de variables non observées, les facteurs latents, qui expliquent les corrélations entre les variables mesurées. Chaque variable observée est modélisée comme une combinaison linéaire de ces facteurs communs, à laquelle s'ajoute une part de variance qui lui est propre. Cette variance spécifique inclut notamment le bruit de mesure. Autrement dit, les variables se ressemblent parce qu'elles dépendent des mêmes causes cachées. Voyons le modèle.
+
+## Slide 4 (94 mots)
+
+Voici le modèle factoriel. Chaque variable X j est égale à lambda j un fois F un, plus lambda j deux fois F deux, et ainsi de suite jusqu'à lambda j m fois F m, plus un terme epsilon j. Les F sont les facteurs communs, au nombre de m, très inférieur au nombre p de variables. Les lambda sont les saturations factorielles, ou factor loadings, qui indiquent le poids du facteur k dans la variable X j. Et epsilon j est la variance spécifique à la variable, qu'elle ne partage avec aucune autre.
+
+## Slide 5 (81 mots)
+
+La PCA et l'analyse factorielle produisent des résultats visuellement proches, mais leurs objectifs diffèrent fondamentalement. La PCA est une méthode purement descriptive. Elle transforme toute la variance des données en nouvelles variables, sans hypothèse sur un modèle sous-jacent. L'analyse factorielle, à l'inverse, repose sur un modèle statistique explicite. Elle distingue la variance commune, partagée entre plusieurs variables et expliquée par les facteurs, de la variance spécifique, propre à chaque variable. Elle ne cherche donc à expliquer que ce qui est partagé.
+
+## Slide 6 (84 mots)
+
+Voici comment retenir la différence. La PCA répond à la question, comment résumer au mieux la variance totale des données ? L'analyse factorielle répond à la question, quelles dimensions cachées expliquent les corrélations observées entre les variables ? Petit quiz. Une entreprise veut simplement créer un indice unique résumant dix indicateurs financiers. Quelle méthode ? La PCA, car il s'agit de résumer. Un chercheur veut identifier les traits de personnalité derrière un questionnaire. Quelle méthode ? L'analyse factorielle, car il cherche des dimensions cachées.
+
+## Slide 7 (80 mots)
+
+Quand utiliser l'analyse factorielle ? Elle est particulièrement adaptée lorsque plusieurs variables semblent mesurer, chacune imparfaitement, un même concept que l'on ne peut pas mesurer directement. Par exemple, plusieurs questions d'un questionnaire de satisfaction qui mesurent toutes, en partie, une même dimension de qualité perçue. Le point de départ naturel est la matrice de corrélation, vue au chapitre deux. On y repère les groupes de variables fortement corrélées entre elles, qui sont de bons candidats pour former un même facteur.
+
+## Slide 8 (87 mots)
+
+Deux notions importantes maintenant. La communalité d'une variable mesure la proportion de sa variance expliquée par l'ensemble des facteurs retenus. Une communalité faible signifie que la variable est mal représentée par le modèle. Ensuite, la rotation factorielle. Les saturations brutes sont souvent difficiles à interpréter, car une variable peut charger sur plusieurs facteurs à la fois. La rotation Varimax, la plus courante, réoriente les axes sans changer la qualité de l'ajustement, pour que chaque variable charge fortement sur un seul facteur. L'interprétation devient alors beaucoup plus claire.
+
+## Slide 9 (84 mots)
+
+Comment interpréter un facteur ? On examine l'ensemble des variables qui présentent, après rotation, une saturation élevée sur ce facteur. Puis on formule un intitulé synthétique, qui rend compte du thème commun à ces variables. Par exemple, si les questions sur l'accueil, l'amabilité et la disponibilité du personnel chargent sur un même facteur, on pourra le nommer qualité relationnelle. Cette étape est en partie qualitative. Elle exige une bonne connaissance du domaine, et doit toujours être validée par la théorie ou la connaissance métier.
+
+## Slide 10 (85 mots)
+
+Retenons les points clés. L'analyse factorielle postule l'existence de facteurs latents, qui expliquent les corrélations entre les variables mesurées. Contrairement à la PCA, elle distingue la variance commune, expliquée par les facteurs, de la variance spécifique à chaque variable. La communalité mesure la part de variance d'une variable expliquée par les facteurs retenus. La rotation Varimax facilite l'interprétation, en renforçant les saturations élevées et en affaiblissant les faibles. Enfin, l'interprétation d'un facteur repose sur ses variables les plus contributives, en cohérence avec le domaine étudié.
+
+## Slide 11 (96 mots)
+
+Voici les corrigés des exercices. Un, les deux facteurs peuvent s'intituler qualité du service et perception du rapport qualité-prix, puisque chacun regroupe quatre items portant sur ce thème précis, conformément à l'objectif de la rotation Varimax. Deux, la variance commune est la part d'une variable partagée avec les autres et expliquée par les facteurs, tandis que la variance spécifique lui est propre, bruit de mesure compris. Trois, une communalité de zéro virgule douze signifie que les facteurs n'expliquent que douze pour cent de sa variance. Cette variable est mal représentée, et pourrait être retirée du modèle.
