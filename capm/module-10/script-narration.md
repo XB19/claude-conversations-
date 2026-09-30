@@ -1,0 +1,55 @@
+# CAPM — Module 10 — Script de narration (Colossyan)
+
+Total : 1076 mots, soit environ 7 à 8 minutes.
+
+## Slide 1 (81 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le module dix de notre préparation au CAPM. Nous poursuivons l'étude de la business analysis, avec cette fois les exigences, les modèles, la traçabilité et l'évaluation de la solution. Au module précédent, nous avons appris à recueillir les besoins. Maintenant, nous allons apprendre à les transformer en exigences claires, à les prioriser, à les suivre jusqu'à leur réalisation, et à vérifier, à la fin, que la solution apporte bien la valeur attendue.
+
+## Slide 2 (85 mots)
+
+Une fois les besoins élicités, ils doivent être transformés en exigences claires, priorisées, validées et tracées. La traçabilité des exigences permet de suivre chaque exigence, depuis son origine, par exemple un atelier ou une demande du sponsor, jusqu'à sa réalisation dans un livrable, et à sa vérification par un test. Enfin, à la fin du projet, il faut évaluer si la solution répond effectivement aux besoins. Ce cycle complet garantit que ce qui a été demandé a bien été livré, et apporte de la valeur.
+
+## Slide 3 (82 mots)
+
+Pourquoi ce module est-il utile ? En analyse, la traçabilité des exigences est essentielle pour garantir que rien n'est oublié, et que tout ce qui est construit répond à un besoin réel. En assurance qualité, l'évaluation de la solution vérifie que les critères d'acceptation sont respectés, avant la mise en service. Et pour la certification, ce module couvre des concepts clés de l'examen CAPM, comme les types d'exigences, la technique MoSCoW et la matrice de traçabilité. Ils font l'objet de questions régulières.
+
+## Slide 4 (82 mots)
+
+Il existe trois types d'exigences. Les exigences fonctionnelles décrivent ce que la solution doit faire, par exemple, le système doit gérer les stocks. Les exigences non fonctionnelles décrivent comment elle doit le faire, par exemple, le système doit répondre en moins de deux secondes. Elles portent sur la performance, la sécurité ou l'ergonomie. Et les exigences techniques décrivent des contraintes, par exemple, le système doit fonctionner sous Windows. Toutes doivent respecter des critères de qualité, clarté, cohérence et testabilité. Voyons la suite.
+
+## Slide 5 (81 mots)
+
+Trois étapes suivent la rédaction des exigences. La priorisation ordonne les exigences par importance. La technique la plus connue est MoSCoW, pour Must have, ce qui est indispensable, Should have, ce qui est important, Could have, ce qui est souhaitable, et Won't have, ce qui ne sera pas fait cette fois. La validation vérifie que les exigences répondent bien aux besoins des parties prenantes. Et l'approbation consiste à les faire approuver formellement par les parties prenantes, avant de lancer la construction.
+
+## Slide 6 (80 mots)
+
+La modélisation des processus consiste à représenter graphiquement les processus métier ou les flux de données. On utilise par exemple des diagrammes de flux, qui montrent l'enchaînement des étapes, ou des diagrammes de cas d'utilisation, qui montrent qui fait quoi avec le système. L'utilité est grande. Un schéma simple permet de visualiser les besoins et les exigences, et facilite la compréhension entre le métier et l'équipe technique. Il révèle souvent des étapes oubliées, ou des incohérences dans le processus actuel.
+
+## Slide 7 (83 mots)
+
+La matrice de traçabilité des exigences est un tableau qui suit chaque exigence, de son origine à sa réalisation. Voyons l'exemple. L'exigence R zéro un, gérer les stocks, vient d'un atelier, elle est acceptée, réalisée dans le module stock, et son test est réussi. L'exigence R zéro deux, un rapport de stock, vient d'un magasinier, et elle est encore en cours, sans test. L'exigence R zéro trois, l'authentification, vient du sponsor, elle est acceptée, réalisée par l'écran de connexion, et testée avec succès.
+
+## Slide 8 (81 mots)
+
+Deux dernières notions. L'évaluation de la solution vérifie que la solution livrée répond aux critères d'acceptation définis pour chaque exigence. C'est une vérification de conformité, faite avant ou juste après la mise en service. La mesure de la valeur, elle, évalue si la solution apporte réellement les bénéfices attendus, souvent quelque temps après sa mise en service. Par exemple, les ruptures de stock ont-elles vraiment diminué ? Une solution peut être conforme aux exigences, sans pour autant apporter la valeur espérée.
+
+## Slide 9 (85 mots)
+
+Construisons une matrice de traçabilité pour le projet de gestion de stock. L'exigence R zéro un, gérer les stocks, a pour source un atelier. Elle est validée, et correspond au livrable module stock. L'exigence R zéro deux, l'interface utilisateur, a pour source un magasinier. Elle est encore en cours, et correspond au livrable interface web. L'exigence R zéro trois, la sécurité des données, a pour source le sponsor. Elle est validée, et correspond au livrable chiffrement. On peut ensuite ajouter une colonne pour les tests.
+
+## Slide 10 (87 mots)
+
+Voici quatre pièges fréquents. Premier piège, l'absence de traçabilité. On ne sait plus si une exigence a été réalisée, ni pourquoi une fonctionnalité existe. Deuxième piège, les exigences floues. Par exemple, le système doit être facile à utiliser, est trop vague pour être testé. Il faut la reformuler de manière mesurable. Troisième piège, ne pas valider les exigences avec les parties prenantes. Et quatrième piège, ne pas évaluer la solution à la fin du projet, ce qui empêche de savoir si la valeur attendue est au rendez-vous.
+
+## Slide 11 (80 mots)
+
+Voici le résumé à mémoriser. Un, les exigences sont fonctionnelles, ce que fait la solution, ou non fonctionnelles, comment elle le fait, auxquelles s'ajoutent les contraintes techniques. Deux, la priorisation, notamment avec MoSCoW, classe les exigences par importance. Trois, la matrice de traçabilité suit chaque exigence de son origine à sa réalisation et à son test. Et quatre, l'évaluation de la solution vérifie que les critères d'acceptation sont respectés. Retenez ces quatre points, ils résument tout le module. Bonne révision.
+
+## Slide 12 (85 mots)
+
+Voici trois exercices, avec des pistes. Premier exercice, votre matrice pour cinq exigences doit comporter au minimum un identifiant, l'exigence, sa source, son statut, le livrable correspondant et le test associé. Deuxième exercice, les exigences doivent être validées par les parties prenantes, pour s'assurer qu'elles traduisent bien leur besoin, et éviter de construire une solution inutile. Troisième exercice, si une exigence non fonctionnelle manque, par exemple sur la performance ou la sécurité, la solution peut fonctionner, mais être lente, vulnérable ou rejetée par les utilisateurs.
+
+## Slide 13 (84 mots)
+
+Terminons par le quiz, avec les réponses. Question un, une exigence fonctionnelle décrit ce que le système doit faire, réponse b. Comment il fonctionne relève du non fonctionnel. Question deux, MoSCoW est une technique de priorisation, réponse b. Question trois, une matrice de traçabilité permet de suivre les exigences, réponse a. Question quatre, un critère d'acceptation est une condition pour que la solution soit acceptée, réponse b. Question cinq, l'évaluation de la solution vérifie la conformité aux exigences, réponse b. Rendez-vous au module onze.

@@ -1,0 +1,51 @@
+# CAPM — Module 8 — Script de narration (Colossyan)
+
+Total : 1023 mots, soit environ 7 à 8 minutes.
+
+## Slide 1 (85 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le module huit de notre préparation au CAPM, consacré à la planification et au pilotage des projets agiles et hybrides. Au module précédent, nous avons découvert les valeurs et les principes de l'agilité. Nous passons maintenant à la pratique quotidienne. Comment organiser le travail en sprints ? Qui fait quoi dans une équipe Scrum ? Comment visualiser le flux avec Kanban ? Et comment suivre l'avancement avec la vélocité et les graphiques d'avancement ? C'est parti.
+
+## Slide 2 (85 mots)
+
+Une fois l'approche agile choisie, il faut la mettre en oeuvre au quotidien. Scrum est le cadre agile le plus utilisé au monde. Il définit des rôles, des événements et des artefacts pour organiser le travail de l'équipe. Le pilotage agile, lui, s'appuie sur des métriques simples et visuelles. La vélocité, qui mesure la capacité de l'équipe. Le graphique burn-down, qui montre le travail restant. Et le cycle time, ou temps de cycle, qui mesure le temps nécessaire pour terminer une tâche, depuis son démarrage.
+
+## Slide 3 (85 mots)
+
+Pourquoi ce module est-il utile ? En management, savoir piloter un projet agile est devenu une compétence clé, recherchée par de nombreux employeurs. En informatique, la plupart des équipes de développement utilisent Scrum ou Kanban au quotidien. Vous les rencontrerez très probablement dès votre premier poste. Et pour la certification, ce module couvre des concepts clés de l'examen CAPM, en particulier les rôles Scrum, les événements, les artefacts, et les métriques comme la vélocité. Ce sont des questions fréquentes, souvent posées sous forme de scénario.
+
+## Slide 4 (82 mots)
+
+Trois concepts clés. L'itération, ou sprint, est une période de temps fixe, généralement de deux à quatre semaines, pendant laquelle l'équipe réalise un ensemble de fonctionnalités du backlog. La cadence est le rythme régulier des itérations. Elle crée une routine prévisible, qui facilite la planification. Enfin, l'estimation relative consiste à estimer la taille des fonctionnalités en points, les story points, par comparaison avec d'autres fonctionnalités, plutôt qu'en heures. On dira par exemple que cette fonctionnalité est deux fois plus grosse que celle-ci.
+
+## Slide 5 (85 mots)
+
+Voici les rôles, événements et artefacts de Scrum. Le Product Owner est responsable du backlog et de sa priorisation. Le Scrum Master est un facilitateur, qui veille au respect du cadre. L'équipe de développement réalise le travail. Côté événements, le sprint planning planifie le sprint, le daily scrum synchronise l'équipe chaque jour en quinze minutes, la sprint review présente les résultats, et la rétrospective permet de s'améliorer. Enfin, les artefacts sont le product backlog, le sprint backlog, et l'incrément livré à la fin du sprint.
+
+## Slide 6 (92 mots)
+
+Passons à Kanban, une méthode de gestion du flux. Son outil central est le tableau Kanban, qui visualise le travail en colonnes, par exemple à faire, en cours, en test, et terminé. Chaque tâche est une carte qui avance de colonne en colonne. Son principe clé est la limitation du travail en cours, le WIP, pour Work In Progress. En limitant le nombre de tâches en cours, on évite la dispersion, on termine plus vite, et l'on réduit le temps de cycle. Commencer moins, pour finir plus, c'est la devise de Kanban.
+
+## Slide 7 (83 mots)
+
+Comment suivre l'avancement en agile ? Avec trois outils. La vélocité est le nombre de story points réalisés par sprint. Elle permet de prévoir la capacité future de l'équipe. Le burn-down chart montre le travail restant dans le sprint. Idéalement, sa courbe descend régulièrement jusqu'à zéro à la fin du sprint. Le burn-up chart montre le travail réalisé par rapport au total. Son avantage est de rendre visible un changement de périmètre, puisque la ligne du total monte si l'on ajoute du travail.
+
+## Slide 8 (85 mots)
+
+Mettons-nous en situation. Vous êtes Scrum Master, et vous préparez le prochain sprint. Lors du sprint planning, le Product Owner présente les fonctionnalités prioritaires. L'équipe les estime en story points, puis sélectionne ce qu'elle peut réaliser, en s'appuyant sur sa vélocité précédente, par exemple vingt points. Chaque jour, le daily scrum synchronise l'équipe. À la fin du sprint, la sprint review présente l'incrément aux parties prenantes. Enfin, la rétrospective permet de discuter de ce qui a bien fonctionné, et de ce qui peut être amélioré.
+
+## Slide 9 (83 mots)
+
+Voici quatre pièges fréquents. Premier piège, mal comprendre la vélocité. C'est un outil de prévision, pas une mesure de performance, et elle ne doit jamais servir à comparer des équipes. Deuxième piège, un backlog non priorisé. Si le Product Owner ne priorise pas, l'équipe travaille sur des fonctionnalités de faible valeur. Troisième piège, un daily scrum qui devient une réunion de reporting au chef. C'est une synchronisation entre développeurs. Quatrième piège, négliger la rétrospective, alors que c'est le moment clé pour améliorer l'équipe.
+
+## Slide 10 (86 mots)
+
+Voici le résumé à mémoriser. Scrum définit trois rôles, le Product Owner, le Scrum Master et l'équipe. Il définit quatre événements dans le sprint, le sprint planning, le daily scrum, la sprint review et la rétrospective. Et il définit trois artefacts, le product backlog, le sprint backlog et l'incrément. La vélocité mesure le travail réalisé par sprint, pour prévoir la suite. Et le Kanban visualise le flux de travail, en limitant le travail en cours. Si vous retenez ces listes, vous êtes prêts pour le quiz.
+
+## Slide 11 (88 mots)
+
+Voici trois exercices, avec des pistes. Premier exercice, pour planifier un sprint, partez du backlog priorisé, estimez les éléments en story points, et sélectionnez-en autant que la vélocité le permet. Deuxième exercice, la vélocité est un outil de prévision, car elle dépend de l'équipe et de ses estimations relatives. Comparer deux équipes n'a donc aucun sens, et la transformer en objectif pousse à gonfler les estimations. Troisième exercice, avec une vélocité de vingt points et cent points à livrer, il faut cent divisé par vingt, soit cinq sprints.
+
+## Slide 12 (84 mots)
+
+Terminons par le quiz, avec les réponses. Question un, le Product Owner est responsable de la priorisation du backlog, réponse a. Question deux, le Scrum Master est responsable de la facilitation des événements Scrum, réponse b. Question trois, la vélocité est le nombre de story points réalisés par sprint, réponse b, et non une simple vitesse. Question quatre, le daily scrum est une réunion quotidienne, réponse b. Question cinq, WIP signifie Work In Progress, réponse a. Au prochain module, nous aborderons la business analysis.

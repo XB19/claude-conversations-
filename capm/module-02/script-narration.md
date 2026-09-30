@@ -1,0 +1,51 @@
+# CAPM — Module 2 — Script de narration (Colossyan)
+
+Total : 1028 mots, soit environ 7 à 8 minutes.
+
+## Slide 1 (85 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le module deux de notre préparation au CAPM, consacré aux méthodes prédictives. Nous allons nous concentrer sur trois domaines étroitement liés, le cadrage, l'intégration et le contenu, que l'on appelle aussi le périmètre. Ce sont les fondations de tout projet bien mené. Vous apprendrez à formaliser un projet avec une charte, à définir précisément ce qu'il doit livrer, à décomposer le travail avec une WBS, et à maîtriser les changements qui surviennent en cours de route.
+
+## Slide 2 (88 mots)
+
+La planification prédictive, ou en cascade, est l'approche traditionnelle du management de projet. On planifie tout en détail dès le début, puis on exécute selon le plan. C'est une approche séquentielle, où chaque phase doit être terminée avant de commencer la suivante. Trois notions structurent ce module. Le cadrage définit ce que le projet doit livrer. L'intégration coordonne tous les aspects du projet, délais, coûts, qualité et risques. Et le contenu, ou périmètre, définit précisément ce qui est inclus dans le projet, et ce qui en est exclu.
+
+## Slide 3 (86 mots)
+
+Pourquoi ce module est-il utile ? En management, savoir cadrer un projet est essentiel pour éviter les dérives de périmètre et de budget, qui sont parmi les premières causes d'échec. En informatique, les projets ont souvent des périmètres mal définis, avec des besoins flous au départ. Une bonne WBS est alors cruciale pour structurer le travail et ne rien oublier. Et pour la certification, le cadrage et la gestion du périmètre sont des domaines clés de l'examen CAPM, avec de nombreuses questions de mise en situation.
+
+## Slide 4 (84 mots)
+
+Trois documents clés. La charte de projet formalise l'existence du projet, et donne au chef de projet l'autorité d'utiliser les ressources. Elle contient les objectifs, le périmètre général, le sponsor, le chef de projet, les critères de succès, les contraintes et les hypothèses. Le business case justifie le projet, en présentant ses bénéfices attendus, ses coûts et ses risques. Enfin, les critères de succès mesurent si le projet est réussi, le respect du délai, du budget, de la qualité, et la satisfaction du client.
+
+## Slide 5 (83 mots)
+
+Avant de définir le périmètre, il faut collecter les exigences, c'est-à-dire identifier les besoins des parties prenantes. On utilise pour cela plusieurs techniques, les entretiens, les ateliers, les questionnaires, l'observation des utilisateurs au travail, et l'analyse documentaire. Vient ensuite la définition du périmètre, qui décrit en détail le produit ou le service à livrer. Elle aboutit à la déclaration de périmètre, qui décrit les livrables, les critères d'acceptation, et surtout ce qui est explicitement exclu du projet. Cette exclusion évite bien des malentendus.
+
+## Slide 6 (92 mots)
+
+La WBS, pour Work Breakdown Structure, est un arbre hiérarchique qui décompose le périmètre en livrables de plus en plus petits, jusqu'aux lots de travail, faciles à estimer et à gérer. Trois principes la guident. La règle des cent pour cent, la WBS doit couvrir la totalité du périmètre. Elle est orientée livrables, chaque élément est un résultat, pas une action. Et elle comporte des niveaux. Pour un site web, on trouve par exemple la conception, avec les maquettes, le développement, avec le front-end et le back-end, les tests, puis le déploiement.
+
+## Slide 7 (85 mots)
+
+Une fois le périmètre défini, il faut le contrôler. Le contrôle du périmètre consiste à surveiller ce qui est livré, et à gérer les changements. Si quelqu'un demande une fonctionnalité supplémentaire, c'est un changement, qui doit être évalué. C'est le rôle de la gestion des changements. Toute modification du périmètre, du planning ou du budget doit passer par un processus formel d'approbation. La demande de changement est documentée, son impact est analysé, puis elle est approuvée ou rejetée. Jamais d'ajout informel, même pour faire plaisir.
+
+## Slide 8 (86 mots)
+
+Voici une mise en situation, la migration vers le cloud d'une petite entreprise. Dans la charte, l'objectif est de migrer l'infrastructure informatique vers AWS en six mois, le sponsor est le directeur informatique, le budget est de cent mille euros, et le critère de succès est une migration dans les délais, sans interruption de service. La WBS se décompose en quatre livrables, l'audit, avec l'inventaire des serveurs, la conception de l'architecture cible, l'exécution avec la migration des données et les tests, puis la mise en production.
+
+## Slide 9 (81 mots)
+
+Voici quatre pièges fréquents. Un périmètre mal défini, qui laisse apparaître des exigences nouvelles en cours de projet, et crée retards et dépassements de budget. Une WBS incomplète, où du travail est oublié, ce qui provoque des surprises pendant l'exécution. Des changements sans processus, car une demande non documentée et non approuvée est une dérive incontrôlée, que l'on appelle scope creep. Et des hypothèses oubliées, qui, non vérifiées, peuvent devenir des problèmes majeurs. Documentez et vérifiez toujours vos hypothèses. Soyez vigilants.
+
+## Slide 10 (82 mots)
+
+Voici le résumé à mémoriser. La charte de projet officialise le projet, et donne l'autorité au chef de projet. La WBS décompose le travail en livrables, avec une règle d'or, cent pour cent du périmètre doit y figurer. Le périmètre définit ce qui est inclus et ce qui est exclu du projet. Et les changements doivent être contrôlés par un processus formel d'approbation. Retenez surtout cette règle d'or des cent pour cent, elle revient très souvent dans les questions de l'examen CAPM.
+
+## Slide 11 (87 mots)
+
+Voici trois exercices, avec des pistes. Premier exercice, rédigez une charte pour un projet de votre choix, avec les objectifs, le sponsor, le budget et les critères de succès. Deuxième exercice, la WBS est orientée livrables plutôt qu'actions, car un livrable est vérifiable, il permet de mesurer l'avancement et de ne rien oublier. Troisième exercice, face à une demande de fonctionnalité supplémentaire, on la documente, on analyse son impact sur le délai, le coût et la qualité, puis on la soumet au processus d'approbation, avant toute réalisation.
+
+## Slide 12 (89 mots)
+
+Passons au quiz, avec les réponses. Question un, la charte de projet est émise par le sponsor, réponse b, c'est lui qui autorise le projet. Question deux, une WBS est une décomposition hiérarchique des livrables, réponse c. Question trois, la règle des cent pour cent signifie que la WBS couvre tout le périmètre, réponse b. Question quatre, une demande de changement doit être analysée, puis approuvée ou rejetée, par le processus formel, réponse c. Question cinq, la déclaration de périmètre décrit ce qui est inclus et exclu, réponse c.
