@@ -1,0 +1,203 @@
+# CMNS 201 — Séance 4 — Script de narration (Colossyan)
+
+Total : 3076 mots, soit environ 21 à 24 minutes.
+
+## Slide 1 (71 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans la séance quatre du cours CMNS deux cent un, consacrée à la communication écrite professionnelle, et plus précisément aux courriels et aux notes. L'écrit occupe une place considérable dans la vie professionnelle. Chaque jour, nous envoyons et recevons des dizaines de messages. Bien écrire, c'est gagner du temps, éviter les malentendus, et donner une image professionnelle de soi et de son organisation.
+
+## Slide 2 (58 mots)
+
+Cette séance poursuit quatre objectifs. Maîtriser la rédaction des courriels professionnels. Produire des notes professionnelles, notes de service et mémos. Comprendre les règles de la netiquette, c'est-à-dire la politesse dans les échanges numériques. Et appliquer les bonnes pratiques de la rédaction professionnelle. Ces quatre objectifs correspondent aux quatre chapitres de la séance, que nous allons parcourir dans l'ordre.
+
+## Slide 3 (61 mots)
+
+Le premier chapitre porte sur la rédaction des courriels professionnels. Le courriel est l'un des outils de communication écrite les plus utilisés en milieu professionnel. Il est rapide, gratuit, et laisse une trace écrite. Mais justement, parce qu'on l'utilise sans cesse, on le rédige souvent trop vite. Sa maîtrise est pourtant essentielle pour une communication efficace et pour votre image professionnelle.
+
+## Slide 4 (58 mots)
+
+Un courriel professionnel comprend cinq composantes. L'objet, qui résume le message en quelques mots. La formule d'appel, c'est-à-dire la salutation, comme Madame la Directrice, ou Bonjour Monsieur. Le corps du message, qui contient l'information. La formule de politesse, qui clôt le message. Et la signature, avec le nom, la fonction et les coordonnées. Chacune de ces composantes compte.
+
+## Slide 5 (68 mots)
+
+La rédaction d'un courriel suit cinq règles. L'objet doit être clair et précis, par exemple, demande de validation du rapport de mars. La formule d'appel doit être adaptée au destinataire et à votre relation avec lui. Le corps doit être structuré, avec une introduction, un développement et une conclusion. Le ton doit être professionnel et courtois. Et la signature doit être complète, pour qu'on puisse vous joindre facilement.
+
+## Slide 6 (61 mots)
+
+On distingue quatre types de courriels professionnels. Les courriels informatifs transmettent une information, comme l'annonce d'une réunion. Les courriels de demande sollicitent une action, comme l'envoi d'un document. Les courriels persuasifs cherchent à convaincre, par exemple pour faire accepter une proposition. Et les courriels relationnels entretiennent le contact, comme un remerciement après une rencontre. Identifier le type aide à bien rédiger.
+
+## Slide 7 (65 mots)
+
+Voici les erreurs à éviter. Un objet vague, comme information, qui ne dit rien du contenu. Un ton trop familier, ou au contraire trop formel. Des fautes d'orthographe, qui nuisent gravement à votre crédibilité. Des messages trop longs, que le destinataire ne lira pas jusqu'au bout. Et l'absence de signature, qui oblige le destinataire à chercher vos coordonnées. Chacune de ces erreurs se corrige facilement.
+
+## Slide 8 (62 mots)
+
+Voici les bonnes pratiques. Relisez toujours votre courriel avant de l'envoyer, une erreur envoyée ne se rattrape pas. Répondez rapidement, idéalement dans la journée, même pour dire que vous traiterez la demande plus tard. Utilisez la fonction répondre à tous avec discernement, pour ne pas encombrer les boîtes de réception. Et mettez en copie uniquement les personnes réellement concernées par le message.
+
+## Slide 9 (60 mots)
+
+Voyons des exemples togolais. Au ProMAT, les courriels servent à coordonner les activités. On les utilise pour demander des informations, transmettre des rapports, ou convoquer des réunions. L'objet est toujours clair, et le ton professionnel. Par exemple, un objet comme convocation à la réunion de coordination du douze mai permet au destinataire de comprendre le message avant même de l'ouvrir.
+
+## Slide 10 (60 mots)
+
+Au programme CIZO, les courriels servent surtout à communiquer avec les fournisseurs et les partenaires. Ils sont utilisés pour passer des commandes de kits solaires, suivre les livraisons, et résoudre les problèmes rencontrés. Dans ce contexte, la précision est essentielle. Une erreur de quantité ou de date dans un courriel de commande peut entraîner des retards importants sur le terrain.
+
+## Slide 11 (60 mots)
+
+Les entreprises togolaises utilisent aussi les courriels, à la fois pour la communication interne et pour la communication externe. En interne, ils servent à diffuser des notes de service et à suivre les projets. En externe, ils permettent de répondre aux demandes des clients. Le courriel est donc devenu un outil central, et sa maîtrise est attendue de tout collaborateur.
+
+## Slide 12 (63 mots)
+
+Faisons la synthèse du chapitre. Un courriel professionnel comprend l'objet, la formule d'appel, le corps, la formule de politesse et la signature. Sa rédaction suit des règles de clarté, de concision et de courtoisie. Et il faut éviter les erreurs courantes, comme les objets vagues et les fautes d'orthographe. Un courriel soigné est une carte de visite pour vous et pour votre organisation.
+
+## Slide 13 (65 mots)
+
+Voici les réponses au quiz. Les composantes d'un courriel sont l'objet, la formule d'appel, le corps, la formule de politesse et la signature. Les règles de rédaction sont un objet clair, une formule d'appel adaptée, un corps structuré, un ton courtois et une signature complète. Et les erreurs à éviter sont l'objet vague, le ton inadapté, les fautes, la longueur excessive et l'absence de signature.
+
+## Slide 14 (59 mots)
+
+Passons au deuxième chapitre, consacré aux notes de service et aux mémos. Ce sont deux documents internes, utilisés pour transmettre des informations, des instructions ou des décisions au sein d'une organisation. Ils se ressemblent, mais ne servent pas exactement au même usage. Nous allons définir chacun d'eux, voir leurs composantes, leurs règles de rédaction, et les erreurs à éviter.
+
+## Slide 15 (62 mots)
+
+La note de service est un document interne qui transmet une information, une instruction ou une décision, à un ou plusieurs destinataires. Elle est souvent utilisée pour les annonces officielles, par exemple un changement d'horaires, une nouvelle procédure, ou la fermeture exceptionnelle d'un service. Elle a une valeur officielle, et engage la hiérarchie qui la signe. Elle est donc rédigée avec soin.
+
+## Slide 16 (58 mots)
+
+Le mémo, abréviation de memorandum, est un document interne plus détaillé que la note de service. Il ne se contente pas d'annoncer. Il sert à analyser une situation, à proposer des solutions, ou à rendre compte d'une activité. Par exemple, un mémo peut analyser les causes d'un retard, présenter plusieurs options, et recommander l'une d'elles à la direction.
+
+## Slide 17 (60 mots)
+
+Une note de service comprend trois parties. L'en-tête, qui indique l'émetteur, le destinataire, la date et l'objet. Le corps, qui contient le message. Et la signature de l'émetteur. Sa qualité principale est la concision. Elle va droit au but, sans détour. En général, elle tient sur une seule page, voire quelques lignes, pour être lue et comprise rapidement par tous.
+
+## Slide 18 (59 mots)
+
+Un mémo comprend quatre parties. L'en-tête, avec l'émetteur, le destinataire, la date et l'objet. L'introduction, qui présente le contexte. Le développement, qui contient l'analyse, les options possibles et les recommandations. Et la conclusion, qui précise la décision attendue et les prochaines étapes. Cette structure guide le lecteur, du constat jusqu'à l'action à mener. Rien n'y est laissé au hasard.
+
+## Slide 19 (59 mots)
+
+Notes et mémos obéissent aux mêmes règles. La clarté, pour être compris sans effort. La concision, pour ne garder que l'essentiel. La structuration, pour que le lecteur trouve facilement l'information. Et un ton professionnel. Retenez une différence simple. La note de service est généralement plus courte que le mémo, car elle informe, alors que le mémo analyse et propose.
+
+## Slide 20 (67 mots)
+
+Voici les erreurs à éviter dans les notes et les mémos. Un objet vague, qui ne permet pas de savoir de quoi il s'agit. Un manque de structuration, qui oblige le lecteur à chercher l'information. Un ton inadapté, trop familier pour un document officiel. Et des informations incomplètes, par exemple une réunion annoncée sans lieu ni horaire. Relisez toujours en vous mettant à la place du lecteur.
+
+## Slide 21 (59 mots)
+
+Voyons des exemples togolais. Le ProMAT utilise des notes de service pour communiquer ses décisions, par exemple la validation du plan de travail et budget annuel, que l'on appelle le PTBA. Il les utilise aussi pour diffuser des instructions, comme les procédures de suivi des activités. Ces notes garantissent que tous les acteurs disposent de la même information officielle.
+
+## Slide 22 (61 mots)
+
+Le programme CIZO utilise des mémos pour analyser les problèmes et proposer des solutions. Par exemple, face à des retards de livraison de kits solaires, un mémo peut analyser leurs causes, comparer plusieurs options, et recommander de faire appel à de nouveaux fournisseurs. La direction dispose ainsi de tous les éléments pour prendre une décision éclairée. Le mémo prépare la décision.
+
+## Slide 23 (59 mots)
+
+Les entreprises togolaises utilisent les deux documents. Les notes de service servent aux annonces, comme les nouveaux horaires de travail ou une nouvelle politique interne. Les mémos servent aux analyses plus approfondies, comme les études de marché ou les rapports d'activité. Petit quiz. Pour annoncer la fermeture du bureau un jour férié, que choisir ? Une note de service.
+
+## Slide 24 (60 mots)
+
+Synthèse du chapitre. La note de service est un document interne concis, qui transmet une information, une instruction ou une décision. Le mémo est un document interne plus détaillé, qui analyse une situation et propose des solutions. Les deux suivent les mêmes règles de clarté, de concision et de structuration. Le choix dépend donc de votre objectif, informer ou analyser.
+
+## Slide 25 (63 mots)
+
+Voici les réponses au quiz. Qu'est-ce qu'une note de service ? Un document interne concis, qui transmet une information, une instruction ou une décision. Qu'est-ce qu'un mémo ? Un document interne détaillé, qui analyse une situation et propose des solutions. Et quelles sont leurs différences ? La note informe et reste courte, tandis que le mémo analyse, recommande, et il est plus long.
+
+## Slide 26 (60 mots)
+
+Abordons le troisième chapitre, consacré à la netiquette. Le mot vient de l'association de net et d'étiquette. La netiquette est l'ensemble des règles de politesse et de bonne conduite dans les communications numériques. Elle est essentielle pour une communication professionnelle efficace, car l'écrit numérique, privé du ton de la voix et des expressions du visage, se prête facilement aux malentendus.
+
+## Slide 27 (57 mots)
+
+Définissons-la plus précisément. La netiquette est l'ensemble des règles de comportement à respecter dans les communications électroniques. Elle poursuit trois buts. Faciliter les échanges, en les rendant clairs et efficaces. Éviter les malentendus, qui naissent facilement à l'écrit. Et maintenir un climat professionnel, respectueux et serein, même lorsque les échanges sont nombreux ou tendus. Elle s'apprend vite.
+
+## Slide 28 (60 mots)
+
+Voici les règles de la netiquette. Utiliser un objet clair. Être concis. Rester courtois en toutes circonstances. Relire avant d'envoyer. Éviter d'écrire en majuscules, car cela équivaut à crier. Être prudent avec l'humour et le sarcasme, qui sont souvent mal compris à l'écrit. Et respecter la confidentialité des informations, en ne transférant pas un message sans l'accord de son auteur.
+
+## Slide 29 (61 mots)
+
+Les courriels professionnels ont des règles supplémentaires. Utiliser une adresse professionnelle, et non une adresse personnelle fantaisiste. Ajouter une signature complète. Adopter un ton formel. Et faire attention aux pièces jointes, à leur taille, qui peut bloquer une boîte de réception, à leur format, que le destinataire doit pouvoir ouvrir, et à leur confidentialité, avant tout envoi. Vérifiez toujours avant d'envoyer.
+
+## Slide 30 (63 mots)
+
+Les messageries instantanées, comme WhatsApp ou Slack, ont leurs propres règles. Les messages doivent être courts. On attend des réponses rapides. L'usage doit rester professionnel, sans messages personnels dans les groupes de travail. Et il faut respecter les horaires, en évitant d'écrire à ses collègues tard le soir ou le week-end, sauf urgence réelle. Ces outils sont pratiques, mais demandent de la discipline.
+
+## Slide 31 (62 mots)
+
+Voici les erreurs de netiquette les plus courantes. Écrire en majuscules. Oublier l'objet. Rédiger des messages trop longs. Laisser des fautes d'orthographe. Envoyer des pièces jointes non sollicitées. Et surtout, répondre de manière impulsive, sous le coup de la colère. Un bon conseil, si un message vous agace, attendez quelques heures avant de répondre, et relisez-vous calmement. La patience est bonne conseillère.
+
+## Slide 32 (64 mots)
+
+Ces erreurs ont des conséquences réelles. Une mauvaise image professionnelle, auprès de vos collègues comme de vos partenaires. Des malentendus, qui font perdre du temps. Des conflits, parfois durables, nés d'un simple message mal formulé. Et une perte de crédibilité, difficile à regagner. À l'écrit, chaque message reste et peut être transféré. Il faut donc écrire comme si tout le monde pouvait le lire.
+
+## Slide 33 (57 mots)
+
+Voyons des exemples togolais. Les équipes du ProMAT respectent la netiquette dans leurs échanges quotidiens. Leurs messages ont des objets clairs, ils sont concis, relus avant envoi, et accompagnés d'une signature complète. Ces règles simples, appliquées par tous, rendent la communication plus fluide entre les nombreux acteurs du projet, et renforcent son image professionnelle. Elles donnent l'exemple.
+
+## Slide 34 (60 mots)
+
+Le programme CIZO applique la netiquette dans ses échanges avec les fournisseurs et les partenaires. Trois principes guident ces échanges. La courtoisie, même en cas de désaccord sur une livraison. Le respect des délais de réponse, pour ne pas bloquer les opérations. Et la confidentialité, notamment pour les informations commerciales et financières échangées avec les fournisseurs. La confiance en dépend.
+
+## Slide 35 (60 mots)
+
+Les entreprises togolaises sensibilisent de plus en plus leurs employés à la netiquette. Elles utilisent trois moyens. La formation, pour expliquer les règles et les enjeux. La charte de communication, un document qui fixe les règles de l'entreprise en matière d'échanges numériques. Et les rappels réguliers, car les bonnes habitudes se perdent vite. La netiquette devient ainsi une culture partagée.
+
+## Slide 36 (63 mots)
+
+Synthèse du chapitre. La netiquette est l'ensemble des règles de politesse et de bonne conduite dans les communications numériques. Elle inclut un objet clair, la concision, la courtoisie, la relecture, et le respect de la confidentialité. Les erreurs de netiquette ont des conséquences directes sur l'image professionnelle. Petit quiz, que signifie un message tout en majuscules ? On a l'impression que l'auteur crie.
+
+## Slide 37 (67 mots)
+
+Voici les réponses au quiz. Qu'est-ce que la netiquette ? L'ensemble des règles de politesse et de bonne conduite dans les communications numériques. Quelles sont ses règles ? Un objet clair, la concision, la courtoisie, la relecture, pas de majuscules, la prudence avec l'humour, et la confidentialité. Et quelles sont les conséquences des erreurs ? Une mauvaise image, des malentendus, des conflits et une perte de crédibilité.
+
+## Slide 38 (65 mots)
+
+Passons au quatrième et dernier chapitre, consacré aux bonnes pratiques de la rédaction professionnelle. La rédaction professionnelle est une compétence clé, que l'on développe tout au long de sa carrière. Les bonnes pratiques permettent de produire des documents clairs, concis et efficaces. Nous allons en voir cinq, la clarté, la concision, la structuration, la pertinence et la relecture, ainsi que les outils qui vous aident.
+
+## Slide 39 (61 mots)
+
+Première bonne pratique, la clarté. Elle consiste à écrire de manière à être compris facilement, dès la première lecture. Quatre règles y contribuent. Utiliser des phrases courtes. Choisir des mots simples. Privilégier la voix active, par exemple, l'équipe a validé le rapport, plutôt que, le rapport a été validé par l'équipe. Et utiliser une ponctuation appropriée, qui aide à la lecture.
+
+## Slide 40 (64 mots)
+
+Deuxième bonne pratique, la concision. Elle consiste à dire l'essentiel en peu de mots. Pour cela, on élimine les redondances, c'est-à-dire les répétitions inutiles. On supprime les mots superflus, comme dans la phrase, je vous écris ce courriel afin de vous informer que. Et l'on coupe les phrases trop longues. Votre lecteur manque de temps, la concision est une forme de respect envers lui.
+
+## Slide 41 (63 mots)
+
+Troisième bonne pratique, la structuration. Elle consiste à organiser le message de manière logique, pour que le lecteur suive facilement le raisonnement. On utilise pour cela des paragraphes, chacun consacré à une idée. Des titres, qui annoncent le contenu. Des listes, pour les éléments énumérés. Et des transitions, qui relient les idées entre elles. Un texte bien structuré se lit beaucoup plus vite.
+
+## Slide 42 (60 mots)
+
+Quatrième bonne pratique, la pertinence. Elle consiste à adapter le message au public et à l'objectif. Nous retrouvons ici les acquis de la séance trois. Il faut connaître son auditoire, définir clairement l'objectif du document, et choisir le contenu en conséquence. Tout ce qui ne sert pas l'objectif, ou n'intéresse pas le lecteur, peut être retiré du document sans regret.
+
+## Slide 43 (60 mots)
+
+Cinquième bonne pratique, la relecture. Elle consiste à vérifier le document avant de l'envoyer. On contrôle l'orthographe, la grammaire, la syntaxe, et la cohérence de l'ensemble, par exemple que les chiffres annoncés en introduction sont bien ceux du tableau. Un conseil pratique, relisez à voix basse, et si possible après une pause. On repère alors bien plus facilement les erreurs.
+
+## Slide 44 (64 mots)
+
+Plusieurs outils peuvent vous aider à rédiger. Les correcteurs orthographiques, intégrés aux logiciels de traitement de texte, qui repèrent de nombreuses fautes. Les dictionnaires, pour vérifier le sens et l'orthographe d'un mot. Les guides de style, qui fixent les règles d'écriture d'une organisation. Et les modèles de documents, qui font gagner du temps et assurent l'homogénéité. Attention, aucun outil ne remplace la relecture humaine.
+
+## Slide 45 (58 mots)
+
+Voyons des exemples togolais. Le ProMAT applique les bonnes pratiques de rédaction dans ses différents documents. Ses rapports sont clairs et structurés, ses notes de service concises, et ses courriels sont relus avant envoi. Cette rigueur rédactionnelle est particulièrement importante, car les documents du projet sont lus par de nombreux partenaires, dont la Banque mondiale. Ils inspirent confiance.
+
+## Slide 46 (61 mots)
+
+Le programme CIZO applique lui aussi les bonnes pratiques. Ses documents techniques sont structurés, pour que les fournisseurs trouvent facilement les spécifications. Ses messages destinés aux communautés sont adaptés, simples et concrets. Et les informations sont systématiquement vérifiées avant diffusion. Une information erronée, diffusée dans les villages, serait en effet très difficile à corriger ensuite. La vérification évite bien des erreurs.
+
+## Slide 47 (60 mots)
+
+Les entreprises togolaises forment de plus en plus leurs employés aux bonnes pratiques de rédaction. Elles organisent des ateliers d'écriture, où l'on s'exerce sur des cas concrets. Elles diffusent des guides de style, qui harmonisent la façon d'écrire. Et elles encouragent la relecture systématique, parfois croisée entre collègues. Bien écrire devient ainsi une compétence collective. Tout le monde y gagne.
+
+## Slide 48 (58 mots)
+
+Synthèse du chapitre. Les bonnes pratiques de la rédaction professionnelle sont au nombre de cinq. La clarté, la concision, la structuration, la pertinence et la relecture. Elles permettent de produire des documents efficaces et professionnels. Retenez-les sous la forme d'une liste de contrôle, à vérifier avant chaque envoi important. Avec l'habitude, ces réflexes deviendront naturels. Imprimez-la si besoin.
+
+## Slide 49 (66 mots)
+
+Voici les réponses au quiz. Qu'est-ce que la clarté ? C'est écrire de manière à être compris facilement, avec des phrases courtes, des mots simples et la voix active. Qu'est-ce que la concision ? C'est dire l'essentiel en peu de mots, en éliminant redondances et mots inutiles. Et pourquoi la relecture est-elle importante ? Parce qu'elle corrige les erreurs avant qu'elles ne nuisent à votre crédibilité.
+
+## Slide 50 (64 mots)
+
+Concluons cette quatrième séance. Vous maîtrisez désormais les bases de la communication écrite professionnelle. Vous savez rédiger des courriels professionnels, produire des notes de service et des mémos, respecter la netiquette, et appliquer les bonnes pratiques de rédaction. La séance cinq sera consacrée à des écrits plus longs et plus stratégiques, les rapports et les propositions. Merci pour votre attention, et à très bientôt.
