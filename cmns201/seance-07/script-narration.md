@@ -1,0 +1,203 @@
+# CMNS 201 — Séance 7 — Script de narration (Colossyan)
+
+Total : 3182 mots, soit environ 21 à 24 minutes.
+
+## Slide 1 (70 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans la séance sept du cours CMNS deux cent un, consacrée aux présentations professionnelles. Lors de la séance précédente, nous avons posé les bases de la communication orale. Aujourd'hui, nous allons plus loin. Comment captiver un auditoire ? Comment concevoir de bons supports visuels ? Comment convaincre ? Et comment répondre aux questions difficiles ? C'est ce que nous allons voir ensemble.
+
+## Slide 2 (65 mots)
+
+Cette séance poursuit quatre objectifs. Maîtriser les techniques de présentation, pour capter et garder l'attention. Concevoir des supports visuels efficaces, qui renforcent le message au lieu de l'encombrer. Argumenter et persuader, grâce à des arguments solides. Et gérer les questions et les objections du public, avec calme et méthode. Ces quatre objectifs correspondent aux quatre chapitres de la séance. Commençons par les techniques de présentation.
+
+## Slide 3 (64 mots)
+
+Le premier chapitre porte sur les techniques de présentation. Ce sont les méthodes qui permettent de captiver l'auditoire, de transmettre le message, et de convaincre. Nous allons en voir six. L'accroche, la structuration du message, l'utilisation des supports visuels, l'interaction avec l'auditoire, la gestion du temps, et les techniques de persuasion. Ensemble, elles font la différence entre une présentation oubliée et une présentation marquante.
+
+## Slide 4 (64 mots)
+
+Première technique, l'accroche. C'est la première impression que vous donnez à l'auditoire, et elle compte énormément. L'accroche peut prendre plusieurs formes. Une question, qui fait réfléchir le public. Une anecdote, qui le fait entrer dans une histoire. Une statistique frappante, qui surprend. Ou une citation, qui donne de la profondeur. Son but est double, capter l'attention, et introduire naturellement le sujet de la présentation.
+
+## Slide 5 (65 mots)
+
+Deuxième technique, la structuration du message. Nous l'avons vue à la séance précédente, et elle reste fondamentale. Le message suit une structure logique en trois parties. L'introduction, avec l'accroche et l'annonce du plan. Le développement, avec les idées principales, les arguments et les exemples. Et la conclusion, avec la synthèse et l'appel à l'action. Une structure claire aide l'auditoire à suivre, et à retenir l'essentiel.
+
+## Slide 6 (67 mots)
+
+Troisième technique, l'utilisation des supports visuels. Les diapositives doivent être simples, claires et pertinentes. Une diapositive par idée. Des mots clés plutôt que des phrases entières. Des images qui parlent. Et des graphiques pour présenter les données. Les supports visuels sont là pour appuyer votre discours, pas pour le remplacer. Si le public lit vos diapositives, il ne vous écoute plus. Nous y reviendrons au chapitre deux.
+
+## Slide 7 (65 mots)
+
+Quatrième technique, l'interaction avec l'auditoire. Elle comprend le contact visuel, en regardant les différentes parties de la salle. Les questions, posées au public pour le faire participer. Les pauses, qui laissent le temps de réfléchir et créent de l'attente. Et l'adaptation au feedback, en observant les réactions du public. Si vous voyez des visages perplexes, prenez le temps de reformuler ou de donner un exemple.
+
+## Slide 8 (66 mots)
+
+Cinquième technique, la gestion du temps. Elle consiste d'abord à respecter le temps imparti. Dépasser son temps de parole est perçu comme un manque de respect envers le public et les autres intervenants. Elle consiste aussi à prévoir des pauses lors des longues interventions, et à ajuster le contenu au temps réellement disponible. Un conseil, prévoyez toujours une version courte de votre présentation, au cas où.
+
+## Slide 9 (61 mots)
+
+Sixième technique, la persuasion. Elle repose sur trois types d'arguments, définis par Aristote. Le logos, ce sont les arguments logiques, fondés sur des faits et des raisonnements. Le pathos, ce sont les arguments émotionnels, qui touchent le coeur. Et l'ethos, c'est la crédibilité de l'orateur, qui inspire confiance. Une présentation convaincante combine habilement les trois. Nous les approfondirons au chapitre trois.
+
+## Slide 10 (65 mots)
+
+Voyons des exemples togolais. Le ProMAT utilise des accroches fondées sur des statistiques sur l'agriculture, par exemple la part de la population qui vit de ce secteur. Il s'appuie sur des supports visuels, comme des graphiques de rendement. Et il favorise l'interaction, en posant des questions à l'auditoire. Ces techniques rendent ses présentations vivantes et convaincantes, aussi bien face aux agriculteurs que face aux partenaires.
+
+## Slide 11 (65 mots)
+
+Le programme CIZO utilise d'autres techniques. Ses accroches reposent souvent sur des témoignages de bénéficiaires, qui racontent comment la lumière a changé leur quotidien. Ses supports visuels montrent des photos des installations. Et l'interaction prend la forme d'échanges directs avec les communautés. Le témoignage est une accroche particulièrement puissante, car il rend concret un sujet qui pourrait sembler technique. Les histoires vraies touchent le public.
+
+## Slide 12 (63 mots)
+
+Les entreprises togolaises forment de plus en plus leurs équipes aux techniques de présentation. Ces formations portent sur la structure des présentations, la conception des supports visuels, l'interaction avec le public, et la persuasion. Savoir présenter un projet, un produit ou des résultats est en effet devenu une compétence attendue à tous les niveaux, pas seulement chez les dirigeants. C'est un vrai investissement.
+
+## Slide 13 (60 mots)
+
+Faisons la synthèse du chapitre. Les techniques de présentation incluent l'accroche, la structuration du message, l'utilisation des supports visuels, l'interaction avec l'auditoire, la gestion du temps, et les techniques de persuasion, avec le logos, le pathos et l'ethos. Chacune de ces techniques s'apprend et se travaille. En les combinant, vous gagnerez en impact et en aisance à chaque nouvelle présentation.
+
+## Slide 14 (65 mots)
+
+Voici les réponses au quiz. Qu'est-ce que l'accroche ? C'est la première impression donnée à l'auditoire, sous forme de question, d'anecdote, de statistique ou de citation, pour capter son attention. Comment structurer un message de présentation ? En trois parties, introduction, développement et conclusion. Et quelles sont les techniques de persuasion ? Le logos, argument logique, le pathos, argument émotionnel, et l'ethos, crédibilité de l'orateur.
+
+## Slide 15 (63 mots)
+
+Passons au deuxième chapitre, consacré à la conception de supports visuels efficaces. Les supports visuels, comme les diapositives, les affiches ou les vidéos, complètent et renforcent la présentation orale. Ils aident le public à comprendre et à retenir. Mais mal conçus, ils peuvent aussi distraire, ennuyer ou embrouiller. Leur conception est donc essentielle à l'efficacité de la présentation. Voyons comment bien les concevoir.
+
+## Slide 16 (70 mots)
+
+La conception repose sur cinq principes. La simplicité, avec une idée par diapositive. La clarté, avec des mots clés plutôt que des phrases. La cohérence, avec les mêmes couleurs et les mêmes polices tout au long de la présentation. La lisibilité, avec une taille de texte suffisante et un bon contraste entre le texte et le fond. Et la pertinence, avec des images et des graphiques réellement utiles au propos.
+
+## Slide 17 (69 mots)
+
+Il existe plusieurs types de supports visuels. Les diapositives, réalisées avec PowerPoint ou Prezi, sont les plus courantes. Les affiches, utiles lors des forums ou des réunions communautaires. Les vidéos, qui montrent une réalisation ou un témoignage. Les objets, par exemple un produit que l'on fait circuler dans la salle. Et les tableaux, comme le tableau blanc ou le tableau papier, pratiques pour construire une idée avec le public.
+
+## Slide 18 (64 mots)
+
+Voici les règles de conception. Utiliser des mots clés, et non des phrases complètes. Choisir des images pertinentes, qui illustrent vraiment le propos. Présenter les données sous forme de graphiques, plus parlants que des colonnes de chiffres. Et éviter à tout prix la surcharge, en laissant de l'espace vide sur la diapositive. Un bon test, une diapositive doit pouvoir être comprise en quelques secondes.
+
+## Slide 19 (65 mots)
+
+Voici les erreurs à éviter. Les diapositives surchargées de texte. Les polices illisibles, trop petites ou trop fantaisistes. Les couleurs criardes, qui fatiguent les yeux. Les images non pertinentes, simplement décoratives. Et les animations excessives, avec des textes qui tournent ou rebondissent, qui distraient le public au lieu de l'aider. Quiz, une diapositive de vingt lignes de texte est-elle efficace ? Non, elle est surchargée.
+
+## Slide 20 (63 mots)
+
+Plusieurs outils permettent de concevoir des supports visuels. PowerPoint, le plus répandu. Keynote, son équivalent sur les ordinateurs Apple. Prezi, qui propose des présentations dynamiques, avec des zooms. Canva, très accessible, qui offre de nombreux modèles graphiques. Et les outils de visualisation de données, pour créer des graphiques clairs. L'outil compte moins que la façon de l'utiliser, en respectant les principes de conception.
+
+## Slide 21 (63 mots)
+
+Voyons des exemples togolais. Le ProMAT utilise des diapositives simples, avec des graphiques de rendement, des cartes des zones d'intervention, et des photos des réalisations sur le terrain. Les messages sont clairs, et les couleurs cohérentes d'une diapositive à l'autre. Cette sobriété renforce le sérieux du projet auprès de ses partenaires, et facilite la compréhension par tous les publics. Ici, moins c'est mieux.
+
+## Slide 22 (63 mots)
+
+Le programme CIZO utilise des supports visuels adaptés aux communautés. Des photos des kits solaires, qui montrent concrètement l'équipement. Des schémas de fonctionnement, simples, qui expliquent comment l'énergie du soleil devient de l'électricité. Et des témoignages, qui rendent le message proche et crédible. Ces supports fonctionnent même auprès de publics peu familiers avec l'écrit. Une image vaut souvent mieux que de longues explications.
+
+## Slide 23 (61 mots)
+
+Les entreprises togolaises conçoivent des supports visuels professionnels dans de nombreuses situations. Pour les présentations aux clients, où il faut convaincre. Pour les rapports internes, présentés à la direction. Et pour les supports de formation, destinés aux employés. Dans tous les cas, des supports soignés contribuent à l'image professionnelle de l'entreprise et à l'efficacité du message. La forme sert le fond.
+
+## Slide 24 (60 mots)
+
+Synthèse du chapitre. La conception de supports visuels efficaces repose sur cinq principes, la simplicité, la clarté, la cohérence, la lisibilité et la pertinence. Les principaux types de supports sont les diapositives, les affiches et les vidéos, auxquels s'ajoutent les objets et les tableaux. Et il faut éviter la surcharge, les polices illisibles, les couleurs criardes et les animations excessives.
+
+## Slide 25 (64 mots)
+
+Voici les réponses au quiz. Quels sont les principes de conception ? La simplicité, la clarté, la cohérence, la lisibilité et la pertinence. Quels sont les types de supports visuels ? Les diapositives, les affiches, les vidéos, les objets et les tableaux. Et quelles erreurs éviter ? Les diapositives surchargées, les polices illisibles, les couleurs criardes, les images non pertinentes et les animations excessives.
+
+## Slide 26 (59 mots)
+
+Abordons le troisième chapitre, consacré à la persuasion et à l'argumentation. Ce sont deux compétences essentielles pour convaincre un auditoire, qu'il s'agisse d'obtenir un financement, de faire adopter une nouvelle pratique, ou de vendre un produit. Elles reposent sur trois types d'arguments, logiques, émotionnels et éthiques. Voyons-les en détail, puis les principales techniques d'argumentation. Ce sont des compétences précieuses.
+
+## Slide 27 (62 mots)
+
+La persuasion repose sur trois piliers, définis par le philosophe grec Aristote il y a plus de deux mille ans. Le logos, l'argument logique. Le pathos, l'argument émotionnel. Et l'ethos, la crédibilité de l'orateur. Ces trois piliers restent d'une étonnante actualité. Les meilleurs orateurs, mais aussi les publicitaires et les responsables politiques, les utilisent tous les jours, souvent sans même les nommer.
+
+## Slide 28 (61 mots)
+
+Le logos est l'argumentation logique. Il s'appuie sur des faits, des données, des statistiques et des exemples. Il utilise aussi différents raisonnements. Le raisonnement déductif part d'une règle générale pour l'appliquer à un cas particulier. Le raisonnement inductif part de cas particuliers pour en tirer une règle générale. Et le raisonnement analogique compare deux situations similaires. Le logos convainc la raison.
+
+## Slide 29 (68 mots)
+
+Le pathos est l'argumentation émotionnelle. Il s'appuie sur des histoires, des témoignages, des images, et des appels aux valeurs, comme la justice, la compassion, ou parfois la peur. Le pathos touche le coeur de l'auditoire, et le pousse à agir. Il est très puissant, mais il doit être utilisé avec honnêteté. Jouer sur les émotions sans fondement réel devient de la manipulation, ce qui est contraire à l'éthique.
+
+## Slide 30 (64 mots)
+
+L'ethos est la crédibilité de l'orateur. Il repose sur quatre qualités. L'expertise, c'est-à-dire la maîtrise du sujet. L'honnêteté, qui se manifeste notamment quand on reconnaît les limites de son propos. La confiance, que l'on inspire par son attitude et sa cohérence. Et la bienveillance envers le public. Sans ethos, même les meilleurs arguments perdent leur force, car le public doute de celui qui parle.
+
+## Slide 31 (63 mots)
+
+Voici quatre techniques d'argumentation. L'argument d'autorité, qui cite des experts ou des institutions reconnues. L'argument par analogie, qui compare la situation à une autre, plus familière. L'argument par les conséquences, qui montre les effets positifs d'une action, ou les effets négatifs de l'inaction. Et l'argument par les causes, qui explique les origines d'un problème. Variez-les pour renforcer votre démonstration. Chacune a sa force.
+
+## Slide 32 (62 mots)
+
+Voici les erreurs à éviter dans l'argumentation. Les arguments fallacieux, comme l'attaque personnelle, qui s'en prend à la personne au lieu de ses idées, ou la généralisation abusive, qui tire une règle générale d'un seul cas. La manipulation émotionnelle, qui exploite les peurs sans fondement. Et le manque de preuves, qui fragilise toute la démonstration. Ces erreurs ruinent la crédibilité de l'orateur.
+
+## Slide 33 (62 mots)
+
+Voyons des exemples togolais. Le ProMAT cherche à persuader les agriculteurs d'adopter de nouvelles pratiques. Il utilise le logos, avec des données sur les rendements obtenus. Le pathos, avec des témoignages d'agriculteurs qui ont réussi. Et l'ethos, grâce à la crédibilité de ses formateurs, souvent issus du milieu agricole. Les trois piliers sont réunis pour convaincre durablement. Cette combinaison est très efficace.
+
+## Slide 34 (62 mots)
+
+Le programme CIZO cherche à persuader les communautés d'adopter l'énergie solaire. Il utilise le logos, en présentant les avantages économiques, comme les économies sur le pétrole lampant. Le pathos, en évoquant l'amélioration des conditions de vie, par exemple des enfants qui peuvent étudier le soir. Et l'ethos, grâce à la crédibilité de l'agence publique chargée de l'électrification rurale qui porte le programme.
+
+## Slide 35 (64 mots)
+
+Les entreprises togolaises persuadent elles aussi leurs clients avec les trois piliers. Le logos, en présentant les caractéristiques et les avantages de leurs produits. Le pathos, en suscitant des émotions, comme la fierté ou le sentiment de sécurité. Et l'ethos, en s'appuyant sur la réputation de l'entreprise, construite au fil des années. Petit quiz, citer un expert reconnu, c'est quel argument ? L'argument d'autorité.
+
+## Slide 36 (60 mots)
+
+Synthèse du chapitre. La persuasion repose sur le logos, la logique, le pathos, l'émotion, et l'ethos, la crédibilité. Les techniques d'argumentation incluent l'argument d'autorité, l'analogie, les conséquences et les causes. Et il faut éviter les arguments fallacieux et la manipulation. Retenez qu'une persuasion honnête, fondée sur des faits et sur la confiance, est aussi la plus efficace dans la durée.
+
+## Slide 37 (63 mots)
+
+Voici les réponses au quiz. Quels sont les trois piliers de la persuasion ? Le logos, le pathos et l'ethos. Qu'est-ce que le logos ? C'est l'argumentation logique, fondée sur des faits, des données et des raisonnements. Et qu'est-ce que le pathos ? C'est l'argumentation émotionnelle, fondée sur des histoires, des témoignages et des appels aux valeurs. Bravo si vous aviez tout juste.
+
+## Slide 38 (60 mots)
+
+Passons au quatrième et dernier chapitre, consacré à la gestion des questions et des objections. Après une présentation, le public pose souvent des questions, et exprime parfois des désaccords. Ce moment fait peur à de nombreux orateurs. Pourtant, bien géré, il permet de clarifier les points obscurs, de renforcer sa crédibilité, et même de convaincre davantage qu'avec la présentation elle-même.
+
+## Slide 39 (67 mots)
+
+Tout commence par l'écoute des questions. Il faut prêter une attention réelle à la question, sans préparer sa réponse pendant que l'autre parle. Il faut comprendre son contenu, mais aussi son intention. La personne veut-elle une précision, exprime-t-elle une inquiétude, ou teste-t-elle votre maîtrise du sujet ? Enfin, il faut reformuler si nécessaire, pour s'assurer d'avoir bien compris, et pour que toute la salle entende la question.
+
+## Slide 40 (66 mots)
+
+Vient ensuite la réponse. Elle doit être claire, concise et pertinente. Elle peut s'appuyer sur des exemples, des données ou des références. Et si vous ne connaissez pas la réponse, admettez-le honnêtement, et proposez de revenir vers la personne plus tard. C'est bien plus crédible qu'une réponse inventée. Le public respecte un orateur qui reconnaît ses limites, et se méfie de celui qui prétend tout savoir.
+
+## Slide 41 (60 mots)
+
+Les objections sont des résistances ou des désaccords exprimés par l'auditoire. Elles ne sont pas des attaques, mais souvent des signes d'intérêt. Leur gestion suit quatre temps. Écouter l'objection jusqu'au bout. La reconnaître, en montrant qu'on la prend au sérieux. Y répondre avec des arguments. Et maintenir un climat positif tout au long de l'échange, même si le désaccord persiste.
+
+## Slide 42 (62 mots)
+
+Voici quatre techniques de gestion des objections. La reformulation, qui consiste à redire l'objection pour montrer qu'on l'a comprise. La validation, qui reconnaît la légitimité de la préoccupation, par exemple, votre inquiétude sur les coûts est tout à fait compréhensible. La réponse, qui apporte des arguments. Et la proposition, qui offre une solution concrète. Cet enchaînement apaise les tensions et favorise l'adhésion.
+
+## Slide 43 (62 mots)
+
+Voici les erreurs à éviter. Ignorer les questions, ce qui donne une impression de mépris ou d'esquive. Répondre de manière défensive, comme si chaque question était une attaque. Argumenter de manière agressive, ce qui transforme l'échange en conflit. Et perdre le contrôle de la présentation, par exemple en laissant une seule personne monopoliser la parole. Restez toujours courtois et maître du temps.
+
+## Slide 44 (65 mots)
+
+Voici les bonnes pratiques. Anticipez les questions, en vous demandant à l'avance ce que le public pourrait vous demander. Préparez des réponses, notamment aux questions difficiles. Restez calme, quelle que soit la question. Et remerciez l'auditoire pour ses questions, qui montrent son intérêt. Un bon exercice consiste à faire répéter sa présentation devant des collègues, en leur demandant de poser les questions les plus difficiles.
+
+## Slide 45 (60 mots)
+
+Voyons des exemples togolais. Le ProMAT gère les questions des agriculteurs avec méthode. Il commence par écouter attentivement. Il reformule la question pour s'assurer de l'avoir bien comprise. Il répond avec des exemples concrets, tirés de la réalité des exploitations. Et il assure un suivi, en revenant vers l'agriculteur si une réponse demande des vérifications. Cette démarche renforce la confiance.
+
+## Slide 46 (64 mots)
+
+Le programme CIZO gère les objections des communautés. Face à une inquiétude, par exemple sur le coût ou la durée de vie des kits, il commence par valider la préoccupation, en montrant qu'elle est légitime. Il répond ensuite avec des données concrètes. Et il propose des solutions, comme des facilités de paiement ou un service de maintenance. L'objection devient ainsi une occasion de dialogue.
+
+## Slide 47 (61 mots)
+
+Les entreprises togolaises forment leurs équipes à la gestion des questions et des objections. Ces formations insistent sur trois points. L'anticipation, en préparant les objections les plus fréquentes des clients. La préparation des réponses et des arguments. Et le contrôle émotionnel, pour rester calme et courtois, même face à un client mécontent. Ce sont des compétences précieuses dans les métiers commerciaux.
+
+## Slide 48 (65 mots)
+
+Synthèse du chapitre. La gestion des questions et des objections comprend l'écoute, la réponse, et la gestion des objections. Les techniques sont la reformulation, la validation, la réponse et la proposition. Et les bonnes pratiques sont l'anticipation, la préparation, le calme et le contrôle émotionnel. Petit quiz, que faire si vous ne connaissez pas la réponse ? L'admettre, et proposer de revenir vers la personne.
+
+## Slide 49 (66 mots)
+
+Voici les réponses au quiz. Comment gère-t-on les questions de l'auditoire ? En écoutant attentivement, en reformulant si besoin, puis en répondant de manière claire, concise et pertinente. Comment gère-t-on les objections ? Par la reformulation, la validation, la réponse et la proposition d'une solution. Et quelles erreurs éviter ? Ignorer les questions, répondre de façon défensive ou agressive, et perdre le contrôle de la présentation.
+
+## Slide 50 (64 mots)
+
+Concluons cette septième séance. Vous maîtrisez désormais les présentations professionnelles. Vous savez utiliser les techniques de présentation, concevoir des supports visuels efficaces, argumenter et persuader grâce au logos, au pathos et à l'ethos, et gérer les questions et les objections. La séance huit sera consacrée à la communication interculturelle. Merci pour votre attention, et à très bientôt. Bonne pratique à toutes et à tous.

@@ -1,0 +1,187 @@
+# CMNS 201 — Séance 8 — Script de narration (Colossyan)
+
+Total : 2947 mots, soit environ 20 à 23 minutes.
+
+## Slide 1 (70 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans la séance huit du cours CMNS deux cent un, consacrée à la communication interculturelle. Dans un monde de plus en plus ouvert, nous travaillons avec des personnes de cultures très différentes, à l'intérieur de notre pays comme à l'international. Comprendre ces différences, et savoir y adapter sa communication, est devenu une compétence professionnelle indispensable. C'est ce que nous allons découvrir aujourd'hui.
+
+## Slide 2 (64 mots)
+
+Cette séance poursuit quatre objectifs. Comprendre les enjeux interculturels dans le monde professionnel. Analyser les différences culturelles, grâce à des grilles de lecture reconnues. Savoir adapter sa communication à des interlocuteurs d'autres cultures. Et identifier les défis, mais aussi les opportunités, de la communication interculturelle. Ces objectifs correspondent aux quatre chapitres de la séance. Commençons par la diversité culturelle. Ce sont des compétences d'avenir.
+
+## Slide 3 (63 mots)
+
+Le premier chapitre porte sur la diversité culturelle. C'est une réalité des organisations modernes. Les équipes réunissent des personnes d'origines, de langues et de traditions différentes. Cette diversité enrichit les équipes, en apportant des points de vue variés. Mais elle pose aussi des défis de communication, car chacun interprète les messages à travers sa propre culture. Ce chapitre pose les concepts de base.
+
+## Slide 4 (65 mots)
+
+Commençons par définir la culture. C'est l'ensemble des valeurs, des croyances, des normes, des comportements et des artefacts partagés par un groupe. Les artefacts, ce sont les objets et les signes visibles, comme les vêtements, l'architecture ou les rituels. La culture influence notre perception du monde, notre façon de communiquer, et nos relations avec les autres. Elle agit souvent sans que nous en ayons conscience.
+
+## Slide 5 (66 mots)
+
+La diversité culturelle prend de nombreuses formes. Elle inclut les différences de langue, de religion, de valeurs, de normes, de coutumes et de comportements. Elle inclut aussi les différences de contexte. On ne communique pas de la même façon d'un pays à l'autre, d'une région à l'autre, et même d'une organisation à l'autre. Chaque entreprise a d'ailleurs sa propre culture, avec ses codes et ses habitudes.
+
+## Slide 6 (63 mots)
+
+La diversité culturelle présente plusieurs avantages. Elle enrichit les perspectives, car chacun apporte un regard différent sur un même problème. Elle accroît la créativité, en multipliant les idées. Elle facilite l'adaptation aux marchés internationaux, grâce à des collaborateurs qui en connaissent les codes. Et elle renforce l'innovation. Des études montrent d'ailleurs que les équipes diverses, bien gérées, trouvent souvent des solutions plus originales.
+
+## Slide 7 (68 mots)
+
+Mais la diversité culturelle pose aussi des défis. Les malentendus, quand un message est interprété différemment selon la culture. Les conflits, qui peuvent naître de ces malentendus. Les stéréotypes, ces images simplifiées et figées d'un groupe. Les préjugés, ces jugements portés avant même de connaître la personne. Et les difficultés de coordination, quand les façons de travailler diffèrent. Ces défis ne sont pas une fatalité, ils se gèrent.
+
+## Slide 8 (69 mots)
+
+Comment gérer la diversité culturelle ? En trois temps. D'abord, reconnaître les différences, au lieu de les ignorer ou de les nier. Ensuite, les valoriser, en considérant la diversité comme une richesse et non comme un problème. Et enfin, créer un environnement inclusif, où chacun se sent respecté, écouté et libre de s'exprimer, quelle que soit son origine. C'est une responsabilité partagée par les dirigeants et par chaque collaborateur.
+
+## Slide 9 (64 mots)
+
+Voyons la situation au Togo. Le Togo est un pays multiculturel, qui compte plus de quarante groupes ethniques et de nombreuses langues. Le français est la langue officielle, mais les langues nationales, comme l'éwé et le kabiyè, sont largement parlées. La diversité culturelle est donc une réalité quotidienne dans les organisations togolaises. Savoir communiquer avec des personnes de cultures variées est un atout précieux.
+
+## Slide 10 (62 mots)
+
+Le ProMAT illustre bien cette réalité. Il travaille avec des agriculteurs de différentes régions du pays, qui parlent des langues différentes et ont des coutumes variées. Les pratiques agricoles, les relations avec les autorités traditionnelles, et même la façon de prendre une décision collective peuvent varier d'une région à l'autre. La communication du projet doit donc être adaptée à chaque contexte local.
+
+## Slide 11 (61 mots)
+
+Les entreprises togolaises vivent elles aussi la diversité culturelle. Elles intègrent des employés de différentes cultures, venus de toutes les régions du pays, et parfois de pays voisins. Elles communiquent aussi avec des partenaires internationaux, d'Europe, d'Asie ou d'Amérique. La gestion de la diversité est donc devenue un enjeu clé de leur performance, et de la qualité de leurs relations d'affaires.
+
+## Slide 12 (66 mots)
+
+Faisons la synthèse du chapitre. La diversité culturelle est l'ensemble des différences de valeurs, de normes et de comportements entre les personnes et les groupes. Elle présente des avantages, comme la créativité et l'innovation, et des défis, comme les malentendus et les conflits. Sa gestion consiste à reconnaître les différences, à les valoriser, et à créer un environnement inclusif. La diversité bien gérée est une force.
+
+## Slide 13 (65 mots)
+
+Voici les réponses au quiz. Qu'est-ce que la culture ? L'ensemble des valeurs, des croyances, des normes, des comportements et des artefacts partagés par un groupe. Quels sont les avantages de la diversité culturelle ? L'enrichissement des perspectives, la créativité, l'adaptation aux marchés internationaux et l'innovation. Et quels sont ses défis ? Les malentendus, les conflits, les stéréotypes, les préjugés et les difficultés de coordination.
+
+## Slide 14 (62 mots)
+
+Passons au deuxième chapitre, consacré aux dimensions de la communication interculturelle. La communication interculturelle, c'est l'échange de messages entre des personnes de cultures différentes. Pour la comprendre, des chercheurs ont proposé des dimensions culturelles, c'est-à-dire des grilles de lecture qui permettent de comparer les cultures. Nous allons étudier celles de deux auteurs majeurs, Geert Hofstede et Edward Hall. Elles sont très utiles.
+
+## Slide 15 (63 mots)
+
+Geert Hofstede a identifié plusieurs dimensions. La distance hiérarchique mesure l'acceptation des inégalités de pouvoir. L'individualisme ou le collectivisme mesure l'importance de l'individu par rapport au groupe. La masculinité ou la féminité oppose les valeurs de compétition et de qualité de vie. L'évitement de l'incertitude mesure la tolérance à l'ambiguïté. Et l'orientation à long ou à court terme mesure l'importance accordée au futur.
+
+## Slide 16 (76 mots)
+
+Edward Hall a identifié deux dimensions. La première est le contexte. Dans les cultures à haut contexte, une grande partie du message est implicite, et passe par la relation, le ton et la situation. Dans les cultures à bas contexte, le message est explicite, et tout est dit clairement. La seconde est le temps. Les cultures monochroniques font une chose à la fois, et respectent strictement les horaires. Les cultures polychroniques mènent plusieurs activités en parallèle.
+
+## Slide 17 (62 mots)
+
+Ces dimensions influencent fortement la communication professionnelle. Elles influencent la prise de parole, par exemple qui ose s'exprimer en réunion devant un supérieur. Elles influencent la négociation, plus directe dans certaines cultures, plus relationnelle dans d'autres. Elles influencent la gestion des conflits, abordés franchement ou au contraire avec détour. Et elles influencent les relations hiérarchiques, plus ou moins formelles selon la culture.
+
+## Slide 18 (63 mots)
+
+Attention à trois erreurs. Les stéréotypes, qui consistent à appliquer mécaniquement une dimension culturelle à chaque individu. Une dimension décrit une tendance moyenne, pas chaque personne. Les jugements de valeur, qui considèrent que sa propre culture est la bonne, et les autres inférieures. Et l'ignorance des différences culturelles, qui conduit à des maladresses. Les dimensions sont des outils pour comprendre, pas pour juger.
+
+## Slide 19 (65 mots)
+
+Comment ces dimensions s'appliquent-elles au Togo ? Le pays présente une grande diversité. La distance hiérarchique varie selon les régions, avec un respect marqué pour les aînés et les autorités traditionnelles. Le collectivisme est fort dans les communautés rurales, où les décisions se prennent souvent en groupe. Et l'on observe une approche polychronique du temps dans certaines pratiques, où la relation passe parfois avant l'horaire.
+
+## Slide 20 (61 mots)
+
+Le ProMAT adapte sa communication à ces dimensions culturelles. Il respecte la hiérarchie, en impliquant les chefs traditionnels avant toute action dans un village. Il tient compte du collectivisme, en privilégiant le travail en groupe et les décisions collectives. Et il fait preuve de flexibilité temporelle, en adaptant ses calendriers aux réalités locales, comme les jours de marché ou les cérémonies.
+
+## Slide 21 (60 mots)
+
+Les entreprises togolaises adaptent elles aussi leur communication aux dimensions culturelles. Elles privilégient souvent une certaine formalité dans les échanges, notamment avec les nouveaux interlocuteurs. Elles respectent les hiérarchies, en s'adressant aux bonnes personnes selon leur rang. Et elles adaptent leur style au contexte, plus direct avec certains partenaires occidentaux, plus relationnel avec d'autres. Cette souplesse est une vraie compétence.
+
+## Slide 22 (62 mots)
+
+Synthèse du chapitre. Les dimensions culturelles de Hofstede, la distance hiérarchique, l'individualisme et le collectivisme, la masculinité et la féminité, l'évitement de l'incertitude et l'orientation temporelle, ainsi que celles de Hall, le contexte et le temps, influencent la communication interculturelle. Les comprendre permet d'adapter sa communication, sans tomber dans le piège des stéréotypes. Elles sont des outils de compréhension, pas des étiquettes.
+
+## Slide 23 (62 mots)
+
+Voici les réponses au quiz. Les dimensions de Hofstede sont la distance hiérarchique, l'individualisme ou collectivisme, la masculinité ou féminité, l'évitement de l'incertitude, et l'orientation à long ou court terme. Celles de Hall sont le contexte, haut ou bas, et le temps, monochronique ou polychronique. Et elles influencent la prise de parole, la négociation, la gestion des conflits et les relations hiérarchiques.
+
+## Slide 24 (57 mots)
+
+Abordons le troisième chapitre, consacré à l'adaptation aux contextes internationaux. Elle est essentielle pour les organisations qui travaillent avec des partenaires étrangers, ou qui opèrent à l'échelle mondiale. Elle implique de comprendre et de respecter les différences culturelles, et d'ajuster sa communication en conséquence. Voyons les stratégies possibles, les domaines d'adaptation, et les compétences nécessaires. Voyons cela.
+
+## Slide 25 (64 mots)
+
+Il existe trois stratégies d'adaptation. La standardisation, qui utilise un message uniforme partout dans le monde. Elle est simple et cohérente, mais risque d'être mal comprise localement. L'adaptation, qui ajuste le message à chaque culture. Elle est plus efficace, mais plus coûteuse. Et l'approche hybride, qui combine les deux, avec un message central commun, décliné selon les contextes locaux. C'est souvent le meilleur compromis.
+
+## Slide 26 (67 mots)
+
+L'adaptation peut porter sur cinq domaines. La langue, par la traduction ou l'interprétation. Les messages, leur contenu et leur ton. Les canaux, en utilisant par exemple les médias locaux. Les comportements, comme les gestes, les salutations ou les coutumes. Et les relations, notamment le rapport à la hiérarchie et la façon de construire la confiance. Une bonne adaptation tient compte de ces cinq dimensions à la fois.
+
+## Slide 27 (63 mots)
+
+Communiquer avec d'autres cultures exige des compétences interculturelles. La connaissance des cultures, de leurs valeurs et de leurs codes. L'ouverture d'esprit, pour accueillir ce qui est différent sans le juger. L'empathie, pour se mettre à la place de l'autre. La flexibilité, pour adapter son comportement. Et la communication, notamment l'écoute active et la reformulation, qui permettent de vérifier que l'on s'est bien compris.
+
+## Slide 28 (67 mots)
+
+De plus en plus de professionnels travaillent dans des équipes multiculturelles. Les gérer consiste à reconnaître les différences entre les membres, à créer un environnement inclusif, à favoriser la communication entre tous, et à gérer les conflits lorsqu'ils surviennent. Un bon manager d'équipe multiculturelle fixe aussi des règles communes, par exemple sur la langue de travail ou la ponctualité, pour que chacun sache ce qui est attendu.
+
+## Slide 29 (70 mots)
+
+Voici quatre bonnes pratiques. La préparation, par exemple en suivant une formation interculturelle avant une mission à l'étranger. L'observation, pour apprendre les codes de l'autre culture, en regardant comment les gens se saluent, se parlent et prennent des décisions. L'adaptation, en faisant preuve de flexibilité. Et la communication, en pratiquant l'écoute active. Quiz, avant une négociation à l'étranger, que faire ? Se préparer en étudiant la culture de ses interlocuteurs.
+
+## Slide 30 (62 mots)
+
+Voyons des exemples togolais. Le ProMAT adapte sa communication à ses partenaires internationaux, comme la Banque mondiale. Il rédige ses rapports en anglais, la langue de travail du bailleur. Il respecte les normes internationales de présentation et de suivi des projets. Et il adopte une communication formelle, adaptée à ce type de partenaire. Cette adaptation renforce la confiance et facilite la collaboration.
+
+## Slide 31 (60 mots)
+
+Le programme CIZO adapte lui aussi sa communication, cette fois à ses fournisseurs internationaux de kits solaires. Il rédige des spécifications techniques précises, pour éviter toute ambiguïté. Il formalise ses accords dans des contrats clairs. Et il mène des négociations, en tenant compte des pratiques commerciales de chaque pays fournisseur. Dans ce contexte, la précision protège contre les malentendus coûteux.
+
+## Slide 32 (65 mots)
+
+Les entreprises togolaises qui exportent, ou qui travaillent avec des partenaires étrangers, adaptent également leur communication. Elles adaptent les langues, en communiquant en anglais avec certains clients, ou en portugais avec d'autres. Elles respectent les normes techniques et commerciales des pays partenaires. Et elles adaptent leurs pratiques, par exemple dans la façon de négocier ou de conclure un accord. La langue est une porte d'entrée.
+
+## Slide 33 (63 mots)
+
+Synthèse du chapitre. L'adaptation aux contextes internationaux repose sur des stratégies, la standardisation, l'adaptation, ou l'approche hybride. Elle s'appuie sur des compétences interculturelles, la connaissance des cultures, l'ouverture d'esprit, l'empathie, la flexibilité et la communication. Et la gestion des équipes multiculturelles est essentielle, car elles sont de plus en plus nombreuses dans le monde du travail. Elle est de plus en plus recherchée.
+
+## Slide 34 (61 mots)
+
+Voici les réponses au quiz. Quelles sont les stratégies d'adaptation ? La standardisation, l'adaptation et l'approche hybride. Quels sont les domaines d'adaptation ? La langue, les messages, les canaux, les comportements et les relations. Et quelles sont les compétences interculturelles ? La connaissance des cultures, l'ouverture d'esprit, l'empathie, la flexibilité et la communication. Bravo si vous aviez tout juste. Bonne révision.
+
+## Slide 35 (60 mots)
+
+Passons au quatrième et dernier chapitre, consacré aux défis et aux opportunités de la communication interculturelle. Comme souvent, la diversité culturelle a deux visages. Elle présente des difficultés réelles, qu'il ne faut pas nier. Mais elle offre aussi de formidables opportunités, pour les personnes comme pour les organisations. Ce chapitre explore ces deux aspects, et la manière de les gérer.
+
+## Slide 36 (67 mots)
+
+Voici les principaux défis de la communication interculturelle. Les barrières linguistiques, quand on ne parle pas la même langue, ou pas avec la même aisance. Les différences de valeurs, qui conduisent à des priorités différentes. Les stéréotypes et les préjugés, qui faussent le regard porté sur l'autre. Les conflits, nés des malentendus. Et les difficultés de coordination, quand les façons de travailler ne sont pas les mêmes.
+
+## Slide 37 (63 mots)
+
+Voici maintenant les opportunités. L'enrichissement mutuel, chacun apprenant de la culture de l'autre. La créativité, stimulée par la confrontation de points de vue différents. L'innovation, qui naît souvent de ces rencontres. L'accès à de nouveaux marchés, grâce à une meilleure compréhension des clients étrangers. Et le développement de compétences interculturelles, de plus en plus recherchées par les employeurs. Ce sont de vrais atouts.
+
+## Slide 38 (64 mots)
+
+Comment gérer les défis ? En cinq actions. Reconnaître les différences, plutôt que de faire comme si elles n'existaient pas. Les valoriser, en montrant ce qu'elles apportent. Former les équipes à la communication interculturelle. Favoriser la communication, en créant des occasions d'échange et de dialogue. Et gérer les conflits rapidement, avant qu'ils ne s'enveniment. Ces actions transforment peu à peu les obstacles en ressources.
+
+## Slide 39 (63 mots)
+
+Comment développer les opportunités ? En créant un environnement inclusif, où chacun peut contribuer. En encourageant la diversité, notamment dans le recrutement. En favorisant les échanges, par exemple grâce à des projets mixtes ou des moments de partage. Et en capitalisant sur les différences, c'est-à-dire en confiant à chacun des missions où sa culture et ses langues sont un véritable atout pour l'organisation.
+
+## Slide 40 (64 mots)
+
+Voici les bonnes pratiques de ce chapitre. La formation interculturelle, pour tous les collaborateurs. La communication ouverte, où l'on ose poser des questions sur les habitudes de l'autre, avec respect et curiosité. La valorisation de la diversité, dans le discours comme dans les actes. Et la gestion des conflits, avec méthode et équité. Ces pratiques font de la diversité un avantage durable pour l'organisation.
+
+## Slide 41 (66 mots)
+
+Voyons les défis au Togo. Les barrières linguistiques sont importantes, avec plus de quarante langues parlées dans le pays. Les différences de valeurs entre milieu urbain et milieu rural peuvent aussi créer des incompréhensions, par exemple sur le rapport au temps ou à la décision collective. Et les stéréotypes entre régions ou entre groupes existent, comme partout. Les reconnaître est la première étape pour les dépasser.
+
+## Slide 42 (61 mots)
+
+Le Togo offre aussi de belles opportunités interculturelles. L'enrichissement culturel, grâce à la diversité de ses traditions. La créativité, nourrie par ces influences multiples. Et l'accès aux marchés régionaux, notamment ceux de la CEDEAO, la Communauté économique des États de l'Afrique de l'Ouest. Les professionnels togolais qui maîtrisent plusieurs langues et plusieurs cultures sont particulièrement bien placés pour saisir ces opportunités.
+
+## Slide 43 (62 mots)
+
+Comment le Togo gère-t-il sa communication interculturelle ? Par trois leviers. La formation, qui prépare les professionnels à travailler avec des cultures différentes. La sensibilisation, qui combat les stéréotypes et les préjugés. Et la valorisation de la diversité, qui fait des langues et des traditions du pays une richesse reconnue. Ces leviers renforcent la cohésion, dans les organisations comme dans la société.
+
+## Slide 44 (63 mots)
+
+Synthèse du chapitre. La communication interculturelle présente des défis, comme les barrières linguistiques, les stéréotypes et les conflits, et des opportunités, comme l'enrichissement, la créativité et l'innovation. La gestion des défis et le développement des opportunités reposent sur la formation, la communication et la valorisation de la diversité. Petit quiz, que signifie CEDEAO ? La Communauté économique des États de l'Afrique de l'Ouest.
+
+## Slide 45 (66 mots)
+
+Voici les réponses au quiz. Quels sont les défis de la communication interculturelle ? Les barrières linguistiques, les différences de valeurs, les stéréotypes, les préjugés, les conflits et les difficultés de coordination. Quelles sont ses opportunités ? L'enrichissement mutuel, la créativité, l'innovation, l'accès à de nouveaux marchés et les compétences interculturelles. Et comment gérer les défis ? En reconnaissant, valorisant, formant, communiquant et gérant les conflits.
+
+## Slide 46 (67 mots)
+
+Concluons cette huitième séance. Vous maîtrisez désormais les bases de la communication interculturelle. Vous savez ce qu'est la diversité culturelle, vous connaissez les dimensions de Hofstede et de Hall, vous savez adapter votre communication aux contextes internationaux, et vous savez identifier les défis et les opportunités. La séance neuf sera consacrée à la communication numérique et à la collaboration. Merci pour votre attention, et à très bientôt.
