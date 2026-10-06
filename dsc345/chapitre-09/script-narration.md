@@ -1,0 +1,51 @@
+# DSC 345 — Chapitre 9 — Script de narration (Colossyan)
+
+Total : 1010 mots, soit environ 7 à 8 minutes.
+
+## Slide 1 (81 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le chapitre neuf du cours DSC trois cent quarante-cinq. Nous poursuivons l'apprentissage non supervisé, avec le clustering, c'est-à-dire le regroupement automatique d'observations similaires. Imaginez des milliers de clients, sans aucune étiquette. Le clustering permet de découvrir, à partir des données seules, des segments homogènes, par exemple des jeunes urbains connectés, ou des familles fidèles. Nous étudierons trois algorithmes majeurs, K-means, DBSCAN et le clustering hiérarchique, ainsi que la façon d'évaluer un clustering.
+
+## Slide 2 (80 mots)
+
+Voici les objectifs pédagogiques de ce chapitre. Premièrement, comprendre les objectifs du clustering, et ses principales applications. Deuxièmement, expliquer le fonctionnement de trois algorithmes, K-means, DBSCAN et le clustering hiérarchique, qui reposent sur des logiques très différentes. Troisièmement, appliquer ces techniques à des jeux de données réels. Et quatrièmement, justifier le choix d'une technique de clustering en fonction de la forme et de la nature des données. Commençons par préciser ce que l'on attend d'un regroupement. C'est parti, allons-y ensemble.
+
+## Slide 3 (80 mots)
+
+Le clustering vise à regrouper des observations similaires au sein de groupes homogènes, appelés clusters, sans disposer d'étiquettes préalables. Les observations d'un même cluster doivent se ressembler, et différer de celles des autres clusters. Le clustering a de nombreuses applications. La segmentation de clientèle, pour adapter les offres marketing. La détection d'anomalies, en repérant les observations qui n'appartiennent à aucun groupe. La compression de données. Ou encore l'exploration préalable à une analyse supervisée, pour mieux comprendre la structure des données.
+
+## Slide 4 (82 mots)
+
+Commençons par K-means, l'algorithme de clustering le plus connu. Il partitionne les données en K groupes, en minimisant l'inertie intra-cluster, c'est-à-dire la somme des distances au carré entre chaque point et le centre de son cluster, appelé centroïde. L'algorithme procède par itérations. Il initialise K centroïdes. Il affecte chaque point au centroïde le plus proche. Il recalcule chaque centroïde comme la moyenne des points qui lui sont affectés. Et il répète ces deux étapes jusqu'à ce que les affectations ne changent plus.
+
+## Slide 5 (87 mots)
+
+Comment choisir le nombre de clusters K ? On utilise souvent la méthode du coude. On calcule l'inertie pour plusieurs valeurs de K, puis on trace la courbe de l'inertie en fonction de K. L'inertie diminue toujours quand K augmente, puisque les groupes deviennent plus petits. Mais à partir d'un certain point, la baisse devient faible. Ce point d'inflexion, qui ressemble à un coude, indique le nombre de clusters au-delà duquel ajouter des groupes n'apporte plus de gain significatif. C'est généralement la valeur de K à retenir.
+
+## Slide 6 (80 mots)
+
+K-means a trois limites importantes. D'abord, il suppose des clusters de forme sphérique, et de taille comparable. Il échoue donc face à des groupes allongés ou imbriqués. Ensuite, il impose de fixer le nombre de clusters K à l'avance, ce qui n'est pas toujours évident. Enfin, il est sensible à l'initialisation des centroïdes, qui peut conduire à des résultats différents d'une exécution à l'autre, ainsi qu'aux valeurs aberrantes, qui peuvent déplacer fortement un centroïde. Ces limites motivent l'usage d'autres algorithmes.
+
+## Slide 7 (84 mots)
+
+Deuxième algorithme, DBSCAN, pour Density-Based Spatial Clustering of Applications with Noise. Il définit les clusters comme des régions denses de points, séparées par des régions de faible densité. Il repose sur deux paramètres. Eps, le rayon du voisinage autour de chaque point. Et min points, le nombre minimal de points requis dans ce voisinage, pour qu'un point soit considéré comme un point dense, ou core point. Les clusters se forment en reliant les points denses voisins, de proche en proche, comme une tache d'huile.
+
+## Slide 8 (84 mots)
+
+DBSCAN présente de grands avantages. Il ne nécessite pas de fixer à l'avance le nombre de clusters, qui découle de la densité des données. Il peut détecter des clusters de forme arbitraire, allongée ou courbe, et pas seulement sphérique. Et il identifie naturellement les points de bruit, ou valeurs aberrantes, qui n'appartiennent à aucun cluster. Sa principale limite, il devient moins performant lorsque les clusters présentent des densités très différentes, car un seul couple de paramètres ne convient alors pas à tous les groupes.
+
+## Slide 9 (86 mots)
+
+Troisième approche, le clustering hiérarchique. Il construit une hiérarchie de partitions, représentée par un arbre appelé dendrogramme. L'approche la plus courante, dite agglomérative, part de chaque observation comme un cluster individuel, puis fusionne successivement les clusters les plus proches. La proximité dépend du critère d'agrégation. La liaison simple considère la paire de points la plus proche, la liaison complète la paire la plus éloignée, et la liaison moyenne la distance moyenne. On choisit ensuite le nombre de clusters en coupant le dendrogramme à la hauteur désirée.
+
+## Slide 10 (97 mots)
+
+Comment évaluer un clustering, sans étiquettes réelles ? Avec des métriques internes, dont la plus utilisée est le score de silhouette. Pour chaque point i, il vaut b de i moins a de i, divisé par le maximum des deux. A de i est la distance moyenne entre le point et les autres points de son cluster. B de i est la distance moyenne entre le point et ceux du cluster voisin le plus proche. Le score varie de moins un à un. Plus il est proche de un, mieux le point est placé dans son cluster.
+
+## Slide 11 (84 mots)
+
+Retenons les points clés. K-means minimise l'inertie intra-cluster, mais suppose des clusters sphériques de taille comparable, et impose de fixer K. La méthode du coude aide à choisir ce nombre K. DBSCAN identifie des clusters de forme arbitraire à partir de la densité, sans fixer K, et détecte naturellement les points aberrants. Le clustering hiérarchique produit un dendrogramme, qui offre une vision à plusieurs échelles des regroupements possibles. Enfin, le score de silhouette est une métrique interne courante pour évaluer la qualité d'un clustering.
+
+## Slide 12 (85 mots)
+
+Voici les corrigés. Premier exercice, pour deux croissants imbriqués, on choisit DBSCAN, ou le clustering hiérarchique à liaison simple, qui suivent la forme des groupes. K-means échouerait, car il suppose des clusters sphériques, et couperait chaque croissant en deux. Deuxième exercice, si l'inertie chute fortement jusqu'à quatre puis se stabilise, le coude se situe à K égal quatre. Troisième exercice, un score de silhouette négatif signifie que le point est en moyenne plus proche du cluster voisin que du sien. Il est probablement mal affecté.

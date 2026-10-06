@@ -1,0 +1,43 @@
+# DSC 345 — Chapitre 4 — Script de narration (Colossyan)
+
+Total : 821 mots, soit environ 5 à 6 minutes.
+
+## Slide 1 (80 mots)
+
+Bonjour à toutes et à tous, et bienvenue dans le chapitre quatre du cours DSC trois cent quarante-cinq, consacré à la régularisation en régression supervisée. Au chapitre précédent, nous avons vu le risque de surapprentissage. La régularisation est l'une des réponses les plus efficaces à ce problème. Nous allons découvrir son principe, puis trois méthodes incontournables, Ridge, Lasso et Elastic Net. Vous saurez ensuite choisir la plus adaptée selon vos données, et la mettre en oeuvre dans vos propres modèles.
+
+## Slide 2 (81 mots)
+
+Voici les objectifs pédagogiques de ce chapitre. Premièrement, comprendre l'impact de la régularisation sur la réduction du surapprentissage. Deuxièmement, analyser les différences entre les trois grandes méthodes, Ridge, Lasso et Elastic Net. Troisièmement, justifier le choix d'une méthode de régularisation en fonction des caractéristiques des données. Et quatrièmement, mettre en oeuvre des modèles de régression régularisés, et régler leur paramètre principal. Commençons par un problème fréquent, qui rend la régularisation particulièrement utile, la multicolinéarité. Ces méthodes sont utilisées partout en pratique.
+
+## Slide 3 (85 mots)
+
+La multicolinéarité désigne une forte corrélation entre plusieurs variables explicatives. Par exemple, la surface d'un logement et son nombre de pièces. Elle rend les coefficients instables. De petites variations dans les données peuvent provoquer de grandes variations des coefficients estimés. Cela nuit à l'interprétation, et favorise le surapprentissage. Pour la diagnostiquer, on utilise le facteur d'inflation de la variance, le VIF. Un VIF supérieur à cinq, ou à dix selon les auteurs, signale généralement un problème qu'il faut traiter. Voyons comment la régularisation y répond.
+
+## Slide 4 (80 mots)
+
+Quel est le principe de la régularisation ? On ajoute à la fonction de coût un terme de pénalité, qui décourage les coefficients trop élevés. Le modèle doit alors trouver un compromis, bien ajuster les données, sans utiliser de coefficients excessifs. En limitant ainsi la complexité du modèle, la régularisation réduit la variance, au prix d'un léger biais supplémentaire. C'est le fameux compromis biais variance. Et ce compromis est souvent favorable, car le modèle généralise mieux sur des données nouvelles.
+
+## Slide 5 (80 mots)
+
+Première méthode, la régularisation Ridge, dite L deux. Sa fonction de coût ajoute, à la somme des carrés des erreurs, alpha fois la somme des carrés des coefficients. Cette pénalité réduit l'amplitude des coefficients, sans jamais les annuler complètement. Tous les coefficients restent non nuls, mais ils sont rétrécis, on parle de shrinkage. Ridge est particulièrement adapté lorsque de nombreuses variables contribuent chacune modestement à la prédiction, et notamment lorsqu'elles sont corrélées entre elles. Elle stabilise alors efficacement les coefficients.
+
+## Slide 6 (82 mots)
+
+Deuxième méthode, la régularisation Lasso, dite L un. Sa pénalité utilise la valeur absolue des coefficients, plutôt que leur carré. Cette différence, qui semble mineure, a une conséquence majeure. Lasso peut ramener certains coefficients exactement à zéro. Il réalise ainsi une sélection automatique des variables, en éliminant celles qui sont peu utiles. Lasso est donc préférable lorsque l'on soupçonne que seules quelques variables sont réellement informatives. Il produit alors un modèle plus simple, et plus facile à interpréter. C'est un atout considérable.
+
+## Slide 7 (82 mots)
+
+Troisième méthode, Elastic Net. Elle combine les pénalités L un et L deux, grâce à un paramètre de mélange, noté r. Elle hérite de la capacité de Lasso à sélectionner des variables, tout en conservant la stabilité de Ridge. Elastic Net est particulièrement utile en présence de groupes de variables corrélées. Dans ce cas, Lasso a tendance à sélectionner arbitrairement une seule variable du groupe, et à ignorer les autres, alors qu'Elastic Net répartit plus équitablement l'importance entre elles. Voyons comment choisir.
+
+## Slide 8 (85 mots)
+
+Comment choisir ? Privilégiez Ridge quand toutes les variables sont potentiellement pertinentes et fortement corrélées entre elles. Privilégiez Lasso quand vous voulez un modèle parcimonieux et interprétable, avec sélection automatique des variables. Choisissez Elastic Net comme compromis robuste, souvent utilisé par défaut quand le nombre de variables dépasse largement le nombre d'observations, ou en présence de groupes corrélés. Enfin, le paramètre alpha se règle par validation croisée. Trop faible, il n'a aucun effet. Trop élevé, il provoque du sous-apprentissage. Ne le choisissez jamais au hasard.
+
+## Slide 9 (80 mots)
+
+Retenons les points clés. La multicolinéarité déstabilise les coefficients d'une régression linéaire classique. La régularisation ajoute une pénalité sur l'amplitude des coefficients, pour réduire le surapprentissage. Ridge, ou L deux, rétrécit les coefficients sans les annuler. Lasso, ou L un, peut les annuler, et donc sélectionner des variables. Elastic Net combine les avantages des deux, grâce à un paramètre de mélange. Et le coefficient de régularisation alpha se règle par validation croisée, jamais au hasard. Retenez bien ces cinq idées.
+
+## Slide 10 (86 mots)
+
+Voici les corrigés. Premier exercice, avec cinq cents variables corrélées par groupes, et seulement trois cents observations, on recommande Elastic Net, qui sélectionne des variables tout en gérant les groupes corrélés. Deuxième exercice, la contrainte L un a la forme d'un losange, dont les coins se trouvent sur les axes. La solution optimale tombe souvent sur un coin, où certains coefficients sont nuls. Le cercle de L deux n'a pas de coin. Troisième exercice, un alpha de cent, trop fort, écrase les coefficients, c'est du sous-apprentissage.
